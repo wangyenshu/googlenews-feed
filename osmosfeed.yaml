@@ -3,9 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://wangyenshu.github.io/googlenews-feed/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen&detail=-1&limit=10&showtitle=false&type=html
+
