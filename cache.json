@@ -6,6 +6,566 @@
       "siteUrl": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en&detail=-1&limit=10&showtitle=false&type=html",
       "articles": [
         {
+          "id": "CBMiamh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93ZWF0aGVyLzIwMjQvMDcvMTEvaHVycmljYW5lLWJlcnlsLWpvdXJuZXktY2FyaWJiZWFuLWphbWFpY2EtdGV4YXMtbmV3eW9yay_SAQA",
+          "author": null,
+          "description": "See Beryl’s 6,000-mile path of destruction, from Africa to Vermont  The Washington Post\nLive updates: Houston Rep. calls out CenterPoint for power restoration delays  Houston Chronicle \nPhotos: The devastation of Hurricane Beryl  Yahoo! Voices\nThese Houston areas received the strongest wind gusts during Hurricane Beryl  The Houston Landing\nBeryl just made history. It has forecasters concerned about what could happen next  CNN",
+          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93ZWF0aGVyLzIwMjQvMDcvMTEvaHVycmljYW5lLWJlcnlsLWpvdXJuZXktY2FyaWJiZWFuLWphbWFpY2EtdGV4YXMtbmV3eW9yay_SAQA?oc=5",
+          "publishedOn": "2024-07-12T00:19:57.000Z",
+          "wordCount": 8876,
+          "title": "See Beryl’s 6,000-mile path of destruction, from Africa to Vermont - The Washington Post",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb25hbC1zZWN1cml0eS8yMDI0LzA3LzExL2luZGlhLXJ1c3NpYS1wdXRpbi1tb2RpLWJpZGVuL9IBAA",
+          "author": null,
+          "description": "Biden administration disturbed by Modi-Putin visit during NATO summit  The Washington Post\nModi’s Embrace of Putin Irks Biden Team Pushing Support for Kyiv  Bloomberg\nUS irked by PM Modi's Russia visit amid NATO Summit: Report  India Today\nSanctions on Russian oil brought Putin and Modi closer. Now they’re in a nuclear embrace  CNN\nTampons found to contain concerning levels of arsenic and lead in world first study  The Independent",
+          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb25hbC1zZWN1cml0eS8yMDI0LzA3LzExL2luZGlhLXJ1c3NpYS1wdXRpbi1tb2RpLWJpZGVuL9IBAA?oc=5",
+          "publishedOn": "2024-07-11T23:46:45.000Z",
+          "wordCount": 8876,
+          "title": "Biden administration disturbed by Modi-Putin visit during NATO summit - The Washington Post",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiV2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb25hbC1zZWN1cml0eS8yMDI0LzA3LzExL2dhemEtcGllci1odW1hbml0YXJpYW4tYWlkL9IBAA",
+          "author": null,
+          "description": "U.S. will soon end its troubled Gaza pier mission, Pentagon says  The Washington Post\nPentagon to Dismantle Temporary Pier Built for Gaza Aid Operation  The New York Times\nU.S. to suspend Gaza humanitarian aid pier  Axios\nUS set to wind down Gaza pier operations  Al Jazeera English\nAfter last-ditch effort, the Gaza pier aid mission is coming to an end  NavyTimes.com",
+          "link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb25hbC1zZWN1cml0eS8yMDI0LzA3LzExL2dhemEtcGllci1odW1hbml0YXJpYW4tYWlkL9IBAA?oc=5",
+          "publishedOn": "2024-07-11T23:44:29.000Z",
+          "wordCount": 8876,
+          "title": "U.S. will soon end its troubled Gaza pier mission, Pentagon says - The Washington Post",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiigFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vd29ybGQvYXJ0aWNsZS8yMDI0L2p1bC8xMS91cy1yZXBvcnRlZGx5LWZvaWxlZC1ydXNzaWFuLXBsb3QtdG8ta2lsbC1ib3NzLW9mLWdlcm1hbi1hcm1zLWZpcm0tc3VwcGx5aW5nLXVrcmFpbmXSAYoBaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkL2FydGljbGUvMjAyNC9qdWwvMTEvdXMtcmVwb3J0ZWRseS1mb2lsZWQtcnVzc2lhbi1wbG90LXRvLWtpbGwtYm9zcy1vZi1nZXJtYW4tYXJtcy1maXJtLXN1cHBseWluZy11a3JhaW5l",
+          "author": null,
+          "description": "US reportedly foiled Russian plot to kill boss of German arms firm supplying Ukraine  The Guardian\nExclusive: US and Germany foiled Russian plot to assassinate CEO of arms manufacturer sending weapons to Ukraine  CNN\nU.S. Uncovers Russian Plot to Assassinate C.E.O. of German Arms Maker  The New York Times\nUS and Germany Foiled Russian Plot to Kill CEO of Arms Manufacturer Rheinmetall  Bloomberg\nRussia believed to be behind plot to assassinate Europe’s top defence boss  Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vd29ybGQvYXJ0aWNsZS8yMDI0L2p1bC8xMS91cy1yZXBvcnRlZGx5LWZvaWxlZC1ydXNzaWFuLXBsb3QtdG8ta2lsbC1ib3NzLW9mLWdlcm1hbi1hcm1zLWZpcm0tc3VwcGx5aW5nLXVrcmFpbmXSAYoBaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkL2FydGljbGUvMjAyNC9qdWwvMTEvdXMtcmVwb3J0ZWRseS1mb2lsZWQtcnVzc2lhbi1wbG90LXRvLWtpbGwtYm9zcy1vZi1nZXJtYW4tYXJtcy1maXJtLXN1cHBseWluZy11a3JhaW5l?oc=5",
+          "publishedOn": "2024-07-11T23:33:00.000Z",
+          "wordCount": 8876,
+          "title": "US reportedly foiled Russian plot to kill boss of German arms firm supplying Ukraine - The Guardian",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiU2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTEvdXMvcG9saXRpY3MvbmF0by1wbGVkZ2VzLXVrcmFpbmUtZmFsbC1zaG9ydC5odG1s0gEA",
+          "author": null,
+          "description": "NATO’s Pledges to Ukraine Fall Short for a Counteroffensive This Year  The New York Times\nNews Wrap: NATO leaders discuss Ukraine membership at final day of summit  PBS NewsHour\nWhat time is Joe Biden's NATO Summit press conference? Where to watch live.  USA TODAY\nNATO summit live: Biden defends Ukraine, calls Putin ‘murderous madman’  Al Jazeera English\nUkraine wins big, NATO wins smaller — and everyone was sweaty  POLITICO",
+          "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTEvdXMvcG9saXRpY3MvbmF0by1wbGVkZ2VzLXVrcmFpbmUtZmFsbC1zaG9ydC5odG1s0gEA?oc=5",
+          "publishedOn": "2024-07-11T23:17:45.000Z",
+          "wordCount": 8876,
+          "title": "NATO’s Pledges to Ukraine Fall Short for a Counteroffensive This Year - The New York Times",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMTEvc3RvbHRlbmJlcmctYmFzaGVzLWNoaW5hLWNyZWVwaW5nLWNsb3Nlci1uYXRvLTAwMTY3NzA40gEA",
+          "author": null,
+          "description": "Stoltenberg bashes China for creeping closer to NATO  POLITICO\nChina Hits Back at NATO After Rare Rebuke  The Wall Street Journal\n'Cold War mentality': China responds to NATO accusations saying Beijing is 'enabler' of Russian war  ABC News\nAt NATO summit, a question of what the alliance wants from the Pacific  Defense News\nFaced with threats from Russia and its Asian supporters, NATO and Indo-Pacific partners get closer  The Associated Press",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMTEvc3RvbHRlbmJlcmctYmFzaGVzLWNoaW5hLWNyZWVwaW5nLWNsb3Nlci1uYXRvLTAwMTY3NzA40gEA?oc=5",
+          "publishedOn": "2024-07-11T22:48:00.000Z",
+          "wordCount": 8876,
+          "title": "Stoltenberg bashes China for creeping closer to NATO - POLITICO",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMieGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvcG9saWNlLWl0YWx5LXNlaXplLTFtLXdvcnRoLW9pbHktc3Vic3RhbmNlLWZhbHNlbHktbWFya2V0ZWQtZXh0cmEtdmlyZ2luLW9saXZlLW9pbNIBfGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvcG9saWNlLWl0YWx5LXNlaXplLTFtLXdvcnRoLW9pbHktc3Vic3RhbmNlLWZhbHNlbHktbWFya2V0ZWQtZXh0cmEtdmlyZ2luLW9saXZlLW9pbC5hbXA",
+          "author": null,
+          "description": "Police in Italy seize $1M worth of 'oily substance' falsely marketed as 'extra virgin olive oil'  Fox Business\nSlippery fraudsters caught doling out fake olive oil -- with Italian cops seizing 'extra virgin' worth $1M  New York Post \nItalian authorities confiscate almost $1 million in fake olive oil  AOL\nItalian authorities confiscate almost US$1 million in fake olive oil  CTV News",
+          "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvcG9saWNlLWl0YWx5LXNlaXplLTFtLXdvcnRoLW9pbHktc3Vic3RhbmNlLWZhbHNlbHktbWFya2V0ZWQtZXh0cmEtdmlyZ2luLW9saXZlLW9pbNIBfGh0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9saWZlc3R5bGUvcG9saWNlLWl0YWx5LXNlaXplLTFtLXdvcnRoLW9pbHktc3Vic3RhbmNlLWZhbHNlbHktbWFya2V0ZWQtZXh0cmEtdmlyZ2luLW9saXZlLW9pbC5hbXA?oc=5",
+          "publishedOn": "2024-07-11T22:36:00.000Z",
+          "wordCount": 8876,
+          "title": "Police in Italy seize $1M worth of 'oily substance' falsely marketed as 'extra virgin olive oil' - Fox Business",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzExL3dvcmxkLW5ld3MvdGVlbi1tYXVsZWQtdG8tZGVhdGgtYnktYmVhci1pbi1mcm9udC1vZi1ib3lmcmllbmQtd2hpbGUtb24taGlraW5nLXRyaXAv0gEA",
+          "author": null,
+          "description": "Teen mauled to death by bear in front of boyfriend while on hiking trip  New York Post \nRomanian lawmakers called back from recess to address bear attacks  Reuters\nRomania: bear attacks force politicians back to work  DW (English)\nDanger zone: Romania to get tough on bears following deadly mauling  Euronews\nHorror as teenage tourist is attacked by a bear which then dropped her 330ft down a cliff to her death in fron  Daily Mail",
+          "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzExL3dvcmxkLW5ld3MvdGVlbi1tYXVsZWQtdG8tZGVhdGgtYnktYmVhci1pbi1mcm9udC1vZi1ib3lmcmllbmQtd2hpbGUtb24taGlraW5nLXRyaXAv0gEA?oc=5",
+          "publishedOn": "2024-07-11T21:34:00.000Z",
+          "wordCount": 8876,
+          "title": "Teen mauled to death by bear in front of boyfriend while on hiking trip - New York Post",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xMS91ay91ay1wb2xpY2UtbWFuaHVudC1odW1hbi1yZW1haW5zLXN1aXRjYXNlLWJyaWRnZS1pbnRsLWxhdGFtL2luZGV4Lmh0bWzSAWBodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzExL3VrL3VrLXBvbGljZS1tYW5odW50LWh1bWFuLXJlbWFpbnMtc3VpdGNhc2UtYnJpZGdlLWludGwtbGF0YW0",
+          "author": null,
+          "description": "UK police launch manhunt after human remains found in suitcases  CNN\nBristol police release image of suspect after human remains found in suitcases  The Guardian\nUK police find 2 suitcases believed to contain human remains  ABC News\nPictured: Man wanted after suitcases containing body parts found  The Telegraph\nClifton Suspension Bridge latest: Police release image of suspect after human remains found in suitcases  The Independent",
+          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xMS91ay91ay1wb2xpY2UtbWFuaHVudC1odW1hbi1yZW1haW5zLXN1aXRjYXNlLWJyaWRnZS1pbnRsLWxhdGFtL2luZGV4Lmh0bWzSAWBodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzExL3VrL3VrLXBvbGljZS1tYW5odW50LWh1bWFuLXJlbWFpbnMtc3VpdGNhc2UtYnJpZGdlLWludGwtbGF0YW0?oc=5",
+          "publishedOn": "2024-07-11T21:33:00.000Z",
+          "wordCount": 8876,
+          "title": "UK police launch manhunt after human remains found in suitcases - CNN",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzExL2NoaW5hLW91dHJhZ2UtZnVlbC10YW5rZXJzLXRyYW5zcG9ydC1jb29raW5nLW9pbNIBZmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzExL2NoaW5hLW91dHJhZ2UtZnVlbC10YW5rZXJzLXRyYW5zcG9ydC1jb29raW5nLW9pbA",
+          "author": null,
+          "description": "Outrage in China over use of unwashed fuel tankers to transport cooking oil  The Guardian\nCooking Oil in Dirty Fuel Tankers? Report Raises Alarms in China.  The New York Times\nChina investigating after media report finds same trucks transport edible oil and a form of coal  Yahoo! Voices\nOutrage in China after reports of fuel tankers transporting cooking oil  The Washington Post\nCooking oil scandal may prompt China to tighten food safety policies, observers say  South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzExL2NoaW5hLW91dHJhZ2UtZnVlbC10YW5rZXJzLXRyYW5zcG9ydC1jb29raW5nLW9pbNIBZmh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzExL2NoaW5hLW91dHJhZ2UtZnVlbC10YW5rZXJzLXRyYW5zcG9ydC1jb29raW5nLW9pbA?oc=5",
+          "publishedOn": "2024-07-11T21:29:00.000Z",
+          "wordCount": 8876,
+          "title": "Outrage in China over use of unwashed fuel tankers to transport cooking oil - The Guardian",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiS2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMTEvMi1wZXJjZW50LW9uLWRlZmVuc2UtbmF0by0wMDE2NzU2N9IBAA",
+          "author": null,
+          "description": "2 percent on defense? That is so last year.  POLITICO\nHow much is each NATO country spending on its military in 2024?  Al Jazeera English\nOpinion | Jake Sullivan: You Can Count on a Strong NATO  The New York Times\nWhy Spain is Nato’s laggard on defence spending  Financial Times\nAs more NATO countries meet spending targets, some push to raise goals  Defense News",
+          "link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMTEvMi1wZXJjZW50LW9uLWRlZmVuc2UtbmF0by0wMDE2NzU2N9IBAA?oc=5",
+          "publishedOn": "2024-07-11T21:05:01.000Z",
+          "wordCount": 8876,
+          "title": "2 percent on defense? That is so last year. - POLITICO",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dvcmxkLzIwMjQvMDcvMTEvbWFnbml0dWRlLTYtNC1lYXJ0aHF1YWtlLXZhbmNvdXZlci1jYW5hZGEvNzQzNjYzMjkwMDcv0gEA",
+          "author": null,
+          "description": "Earthquake of magnitude 6.4 rumbles southwestern Canada, Vancouver Island  USA TODAY\n6.4M quake that struck off B.C. is part of recent 'swarm': agency  CBC.ca\nA 6.4 earthquake off Vancouver Island triggers alert in Western WA  The Seattle Times\nMagnitude 6.4 earthquake strikes off west coast of Vancouver Island  SFGATE\n6.4 and 5.4 magnitude earthquakes strike near Vancouver Island  FOX 13 Seattle",
+          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dvcmxkLzIwMjQvMDcvMTEvbWFnbml0dWRlLTYtNC1lYXJ0aHF1YWtlLXZhbmNvdXZlci1jYW5hZGEvNzQzNjYzMjkwMDcv0gEA?oc=5",
+          "publishedOn": "2024-07-11T20:26:15.000Z",
+          "wordCount": 8876,
+          "title": "Earthquake of magnitude 6.4 rumbles southwestern Canada, Vancouver Island - USA TODAY",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTWh0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDI0LzA3LzExL3J1c3NpYS11a3JhaW5lLWhvc3BpdGFsLWlzcmFlbC1nYXphLXdhcnMv0gEA",
+          "author": null,
+          "description": "Russia Attacks Hospitals in Ukraine. Israel Does the Same in Gaza. The U.S. Response Couldn’t Be More Different.  The Intercept\nRussian Pilot Betrays Colleagues Who Attacked Ohmatdyt Children’s Hospital in Kyiv  Kyiv Post\nHe Was Operating on a Baby When a Russian Missile Struck  The Wall Street Journal\nRussia children hospital strike before NATO summit is backfiring  Business Insider\nHungarian opposition leader to deliver aid to damaged Kyiv children's hospital  Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vdGhlaW50ZXJjZXB0LmNvbS8yMDI0LzA3LzExL3J1c3NpYS11a3JhaW5lLWhvc3BpdGFsLWlzcmFlbC1nYXphLXdhcnMv0gEA?oc=5",
+          "publishedOn": "2024-07-11T20:21:37.000Z",
+          "wordCount": 8876,
+          "title": "Russia Attacks Hospitals in Ukraine. Israel Does the Same in Gaza. The U.S. Response Couldn’t Be More Different. - The Intercept",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jeWR2ajI0bTRnNG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3lkdmoyNG00ZzRvLmFtcA",
+          "author": null,
+          "description": "Hungary's Viktor Orbán to meet Donald Trump at Mar-a-Lago  BBC.com\nHungary's Orban ditches NATO summit to meet with Donald Trump  Fox News\nViktor Orbán to Meet With Donald Trump After Recent Meeting With Putin  TIME\nHungary’s Orban to meet with Trump after attending NATO summit with Biden  The Washington Post\nTrump to reportedly host Orban in Florida  DW (English)",
+          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jeWR2ajI0bTRnNG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3lkdmoyNG00ZzRvLmFtcA?oc=5",
+          "publishedOn": "2024-07-11T20:17:05.000Z",
+          "wordCount": 8876,
+          "title": "Hungary's Viktor Orbán to meet Donald Trump at Mar-a-Lago - BBC.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiUWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xMS9ueC1zMS01MDM2NTQ1L3doYWxlcy1yb3dlci1hdGxhbnRpYy10b20td2FkZGluZ3RvbtIBAA",
+          "author": null,
+          "description": "‘Absolutely incredible’: Man rowing solo across Atlantic is surrounded by whales  NPR\nWhale pod joins solo rower in the Atlantic, rocking boat and blowing bubbles  The Washington Post\n‘Love it, but I’m scared’: Huge pod of whales surround rower on solo journey across Atlantic Ocean  Boston 25 News\n#TheMoment a rower was swarmed by whales while crossing the Atlantic  CBC.ca\nVideo Rower has stunning close encounter with huge pod of whales in North Atlantic  ABC News",
+          "link": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xMS9ueC1zMS01MDM2NTQ1L3doYWxlcy1yb3dlci1hdGxhbnRpYy10b20td2FkZGluZ3RvbtIBAA?oc=5",
+          "publishedOn": "2024-07-11T19:58:31.000Z",
+          "wordCount": 8876,
+          "title": "‘Absolutely incredible’: Man rowing solo across Atlantic is surrounded by whales - NPR",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL25hdG8tYmFjay11a3JhaW5lLWJpZGVuLWZhY2VzLWdyb3dpbmctcHJlc3N1cmUtZHJvcC1vdXQtcHJlc2lkZW50aWFsLXJhY2UtMjAyNC0wNy0xMS_SAQA",
+          "author": null,
+          "description": "Ukraine urges NATO to lift restrictions on targeting Russia, China denounces criticism  ReutersView Full Coverage on Google News",
+          "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL25hdG8tYmFjay11a3JhaW5lLWJpZGVuLWZhY2VzLWdyb3dpbmctcHJlc3N1cmUtZHJvcC1vdXQtcHJlc2lkZW50aWFsLXJhY2UtMjAyNC0wNy0xMS_SAQA?oc=5",
+          "publishedOn": "2024-07-11T19:49:00.000Z",
+          "wordCount": 8876,
+          "title": "Ukraine urges NATO to lift restrictions on targeting Russia, China denounces criticism - Reuters",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9nbG9iYWwtZGV2ZWxvcG1lbnQvYXJ0aWNsZS8yMDI0L2p1bC8xMS9pcmFuLWZyZWVkb20tcHJvdGVzdGVycy1yZWFjdC10by1tYXNvdWQtcGV6ZXNoa2lhbtIBdWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9nbG9iYWwtZGV2ZWxvcG1lbnQvYXJ0aWNsZS8yMDI0L2p1bC8xMS9pcmFuLWZyZWVkb20tcHJvdGVzdGVycy1yZWFjdC10by1tYXNvdWQtcGV6ZXNoa2lhbg",
+          "author": null,
+          "description": "‘I feel betrayed by the west’: Iran’s freedom protesters react to their new president  The Guardian\nIran’s new president can only change the country so much  Vox.com\nIran’s Supreme Leader Is Worried  The Atlantic\nOpinion | Meet Iran’s New Boss, Same as the Old Boss  The Wall Street Journal\nIran’s new president is no moderate  The Hill",
+          "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9nbG9iYWwtZGV2ZWxvcG1lbnQvYXJ0aWNsZS8yMDI0L2p1bC8xMS9pcmFuLWZyZWVkb20tcHJvdGVzdGVycy1yZWFjdC10by1tYXNvdWQtcGV6ZXNoa2lhbtIBdWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9nbG9iYWwtZGV2ZWxvcG1lbnQvYXJ0aWNsZS8yMDI0L2p1bC8xMS9pcmFuLWZyZWVkb20tcHJvdGVzdGVycy1yZWFjdC10by1tYXNvdWQtcGV6ZXNoa2lhbg?oc=5",
+          "publishedOn": "2024-07-11T19:27:00.000Z",
+          "wordCount": 8876,
+          "title": "‘I feel betrayed by the west’: Iran’s freedom protesters react to their new president - The Guardian",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzExL25ldGFueWFodS1nYXphLWNlYXNlZmlyZS1ob3N0YWdlLW5lZ290aWF0aW9uc9IBAA",
+          "author": null,
+          "description": "Israel toughens Gaza ceasefire demands just as optimism for deal growing  Axios\nBiden introduces Zelensky as Putin at NATO summit, corrects himself  The Times of Israel\nOpinion | A Gaza cease-fire agreement appears within reach  The Washington Post\nIsrael bombards Gaza City in one of the fiercest weeks of war, killing 26  Reuters\nAudience chants 'shame' as Netanyahu says war won't end until Israel achieves goals - report  The Jerusalem Post",
+          "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzExL25ldGFueWFodS1nYXphLWNlYXNlZmlyZS1ob3N0YWdlLW5lZ290aWF0aW9uc9IBAA?oc=5",
+          "publishedOn": "2024-07-11T19:24:28.000Z",
+          "wordCount": 8876,
+          "title": "Israel toughens Gaza ceasefire demands just as optimism for deal growing - Axios",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMic2h0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2ZhaWx1cmUtYW5kLXNsYXVnaHRlci1pZGZzLWJlZXJpLXByb2JlLXNob3dzLWFybXlzLWNvbG9zc2FsLWVycm9ycy1yZXNpZGVudHMtYnJhdmVyeS_SAXdodHRwczovL3d3dy50aW1lc29maXNyYWVsLmNvbS9mYWlsdXJlLWFuZC1zbGF1Z2h0ZXItaWRmcy1iZWVyaS1wcm9iZS1zaG93cy1hcm15cy1jb2xvc3NhbC1lcnJvcnMtcmVzaWRlbnRzLWJyYXZlcnkvYW1wLw",
+          "author": null,
+          "description": "Failure and slaughter: IDF’s Be’eri probe shows army’s colossal errors, residents’ bravery  The Times of Israel\nIsraeli Military Admits Wide-Ranging Failures in Border Village Attacked on Oct. 7  The New York Times\nFirst Oct. 7 probe reveals how IDF, police failure led to Be'eri slaughter  The Jerusalem Post\nIsraeli military says it failed to protect Gaza border town on Oct. 7  The Washington Post\nFirst Israeli military report on Oct. 7 attack finds army failed to protect civilians  Reuters",
+          "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2ZhaWx1cmUtYW5kLXNsYXVnaHRlci1pZGZzLWJlZXJpLXByb2JlLXNob3dzLWFybXlzLWNvbG9zc2FsLWVycm9ycy1yZXNpZGVudHMtYnJhdmVyeS_SAXdodHRwczovL3d3dy50aW1lc29maXNyYWVsLmNvbS9mYWlsdXJlLWFuZC1zbGF1Z2h0ZXItaWRmcy1iZWVyaS1wcm9iZS1zaG93cy1hcm15cy1jb2xvc3NhbC1lcnJvcnMtcmVzaWRlbnRzLWJyYXZlcnkvYW1wLw?oc=5",
+          "publishedOn": "2024-07-11T19:18:14.000Z",
+          "wordCount": 8876,
+          "title": "Failure and slaughter: IDF’s Be’eri probe shows army’s colossal errors, residents’ bravery - The Times of Israel",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQ2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMTEvbmF0by10cnVtcC1hbGxpZXMtMDAxNjc2MjXSAQA",
+          "author": null,
+          "description": "There’s an unofficial NATO summit in DC: meeting with Trump allies  POLITICOView Full Coverage on Google News",
+          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMTEvbmF0by10cnVtcC1hbGxpZXMtMDAxNjc2MjXSAQA?oc=5",
+          "publishedOn": "2024-07-11T19:12:33.000Z",
+          "wordCount": 8876,
+          "title": "There’s an unofficial NATO summit in DC: meeting with Trump allies - POLITICO",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA3LTExL3R1cmtleS10by1wYWlyLWJhY2stMjMtYmlsbGlvbi1kZWFsLWZvci1mLTE2LWpldHMtd2l0aC11c9IBAA",
+          "author": null,
+          "description": "Turkey to Pare Back $23 Billion Deal for F-16 Jets With US  Bloomberg\nErdogan says going forward, Turkey won’t approve NATO cooperation with Israel  The Times of Israel\nExclusive: Turkey's Erdogan Blasts Biden's US Over Ukraine and Gaza  Newsweek\nErdogan says Turkey will not approve NATO attempts to cooperate with Israel  Reuters\nTurkey carves its own course in NATO  POLITICO Europe",
+          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA3LTExL3R1cmtleS10by1wYWlyLWJhY2stMjMtYmlsbGlvbi1kZWFsLWZvci1mLTE2LWpldHMtd2l0aC11c9IBAA?oc=5",
+          "publishedOn": "2024-07-11T18:58:07.000Z",
+          "wordCount": 8876,
+          "title": "Turkey to Pare Back $23 Billion Deal for F-16 Jets With US - Bloomberg",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvcm9zYWxpYS1tZXNzaW5hLWRlbmFyby1zZW50ZW5jZWQtc2lzdGVyLWl0YWx5LW1hZmlhLWJvc3MtaGFuZGxlZC1jb2RlZC1tZXNzYWdlcy_SAXFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9yb3NhbGlhLW1lc3NpbmEtZGVuYXJvLXNlbnRlbmNlZC1zaXN0ZXItaXRhbHktbWFmaWEtYm9zcy1oYW5kbGVkLWNvZGVkLW1lc3NhZ2VzLw",
+          "author": null,
+          "description": "Italy jails notorious mafia boss's sister who handled coded messages for mobsters  CBS NewsView Full Coverage on Google News",
+          "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvcm9zYWxpYS1tZXNzaW5hLWRlbmFyby1zZW50ZW5jZWQtc2lzdGVyLWl0YWx5LW1hZmlhLWJvc3MtaGFuZGxlZC1jb2RlZC1tZXNzYWdlcy_SAXFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9yb3NhbGlhLW1lc3NpbmEtZGVuYXJvLXNlbnRlbmNlZC1zaXN0ZXItaXRhbHktbWFmaWEtYm9zcy1oYW5kbGVkLWNvZGVkLW1lc3NhZ2VzLw?oc=5",
+          "publishedOn": "2024-07-11T18:49:01.000Z",
+          "wordCount": 8876,
+          "title": "Italy jails notorious mafia boss's sister who handled coded messages for mobsters - CBS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdzB5cjM2ZTZsOW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3cweXIzNmU2bDlvLmFtcA",
+          "author": null,
+          "description": "Trudeau says Canada will meet Nato's 2% spending target by 2032  BBC.com\nCanada unveils for first time target date for NATO defense spending goal  Reuters Canada\nCanada launches process to acquire up to 12 conventionally-powered submarines  Naval News\nOpinion | Canada Is a NATO Scofflaw  The Wall Street Journal\nTrudeau pledges Canada will hit 2 percent NATO target — by 2032  POLITICO",
+          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdzB5cjM2ZTZsOW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3cweXIzNmU2bDlvLmFtcA?oc=5",
+          "publishedOn": "2024-07-11T18:09:51.000Z",
+          "wordCount": 8876,
+          "title": "Trudeau says Canada will meet Nato's 2% spending target by 2032 - BBC.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vdWtyYWluZS1mYWNlcy1zYW1lLXByb2JsZW0td2l0aC1mMTZzLWFzLWFicmFtcy10YW5rcy16ZWxlbnNreXktMjAyNC030gFpaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS91a3JhaW5lLWZhY2VzLXNhbWUtcHJvYmxlbS13aXRoLWYxNnMtYXMtYWJyYW1zLXRhbmtzLXplbGVuc2t5eS0yMDI0LTc_YW1w",
+          "author": null,
+          "description": "Ukraine faces same problem with F-16s as Abrams tanks: Zelenskyy  Business Insider\nNATO-member Norway donates six F-16 jets to Ukraine  ABC News\nFirst F-16s will be ‘flying in Ukrainian skies’ this summer, says Blinken  Financial Times\nBlinken: F-16s will fly in Ukraine this summer  The Hill\nTransfer of F-16 fighter jets to Ukraine under way  Al Jazeera English",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vdWtyYWluZS1mYWNlcy1zYW1lLXByb2JsZW0td2l0aC1mMTZzLWFzLWFicmFtcy10YW5rcy16ZWxlbnNreXktMjAyNC030gFpaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS91a3JhaW5lLWZhY2VzLXNhbWUtcHJvYmxlbS13aXRoLWYxNnMtYXMtYWJyYW1zLXRhbmtzLXplbGVuc2t5eS0yMDI0LTc_YW1w?oc=5",
+          "publishedOn": "2024-07-11T17:25:00.000Z",
+          "wordCount": 8876,
+          "title": "Ukraine faces same problem with F-16s as Abrams tanks: Zelenskyy - Business Insider",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jOTl3MXFqcDhxa2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzk5dzFxanA4cWtvLmFtcA",
+          "author": null,
+          "description": "New coalmine in doubt after 'error’ in planning decision  BBC.com\nCumbria coalmine was unlawfully approved, government says  The Guardian\nUK Supreme Court Ruling on Scope 3 Emissions: Have the Floodgates to Climate Change Litigation Fully Opened?  The National Law Review\nLocal residents to gather ahead of legal challenge for Whitehaven mine  News & Star\nApproval of new UK coal mine was an 'error of law', new government says  Sky News",
+          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jOTl3MXFqcDhxa2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzk5dzFxanA4cWtvLmFtcA?oc=5",
+          "publishedOn": "2024-07-11T17:16:19.000Z",
+          "wordCount": 8876,
+          "title": "New coalmine in doubt after 'error’ in planning decision - BBC.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3BoaWxpcHBpbmVzLXRhZ2F5dGF5LWF1c3RyYWxpYW5zLWtpbGxlZC1ob3RlbC1iNTIxMjZlZGE0ZWE2ZTllYjM5YTdiY2JlMDMyMTMxNNIBAA",
+          "author": null,
+          "description": "2 Australians and a Filipina killed in Philippine hotel, officials say  The Associated Press\nMasked man seen on CCTV before Australian couple found dead in Philippines hotel - video  The Guardian\nAustralian couple and Filipino companion found dead at luxury Philippine hotel, officials confirm  ABC News\nAustralians killed in Philippines just days from returning home  9News\nDavid Fisk and Lucita Cortez: Grisly new details emerge after Australian couple and their daughter-in-law are  Daily Mail",
+          "link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3BoaWxpcHBpbmVzLXRhZ2F5dGF5LWF1c3RyYWxpYW5zLWtpbGxlZC1ob3RlbC1iNTIxMjZlZGE0ZWE2ZTllYjM5YTdiY2JlMDMyMTMxNNIBAA?oc=5",
+          "publishedOn": "2024-07-11T17:04:00.000Z",
+          "wordCount": 8876,
+          "title": "2 Australians and a Filipina killed in Philippine hotel, officials say - The Associated Press",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL2RhdGEtZ3JhcGhpY3MvZ3JhcGhpY3MtMjAyNC11bml0ZWQtbmF0aW9ucy13b3JsZC1wb3B1bGF0aW9uLXByb3NwZWN0cy1yZXBvcnQtZGF0YS1yY25hMTYwMDE30gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE2MDAxNw",
+          "author": null,
+          "description": "Graphics: What the 2024 U.N. World Population Prospects report shows about where humanity is going  NBC News\nWorld population to peak at 10.3b by 2080s, life expectancy returns to pre-Covid levels : UN report  The Times of India\nGlobal population predictions offer ‘hopeful sign’ for planet, UN says  The Guardian\nIt’s Official: Earth’s Population Should Peak Before the End of the Century  The Wall Street Journal\nGlobal population to shrink this century as birth rates fall  Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL2RhdGEtZ3JhcGhpY3MvZ3JhcGhpY3MtMjAyNC11bml0ZWQtbmF0aW9ucy13b3JsZC1wb3B1bGF0aW9uLXByb3NwZWN0cy1yZXBvcnQtZGF0YS1yY25hMTYwMDE30gEraHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAvcmNuYTE2MDAxNw?oc=5",
+          "publishedOn": "2024-07-11T16:30:13.000Z",
+          "wordCount": 8876,
+          "title": "Graphics: What the 2024 U.N. World Population Prospects report shows about where humanity is going - NBC News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiuQFodHRwczovL3d3dy5zdGF0ZS5nb3YvdXAtdG8tMTItbWlsbGlvbi1pbi1yZXdhcmQtb2ZmZXJzLWZvci1pbmZvcm1hdGlvbi1sZWFkaW5nLXRvLWFycmVzdHMtYW5kLW9yLWNvbnZpY3Rpb25zLW9mLXRocmVlLWxlYWRlcnMtb2YtdGhlLXRyZW4tZGUtYXJhZ3VhLXRyYW5zbmF0aW9uYWwtY3JpbWluYWwtb3JnYW5pemF0aW9uL9IBAA",
+          "author": null,
+          "description": "Up to $12 Million in Reward Offers for Information Leading to Arrests and/or Convictions of Three Leaders of the Tren de Aragua Transnational Criminal Organization  Department of State\nBiden administration designates dangerous Venezuelan gang as a transnational criminal organization  CNN\nExplainer: What is the Venezuelan prison gang Tren de Aragua?  Reuters Canada\nUS sanctions a Venezuela gang for spreading criminal activity across Latin America  The Associated Press\nUS Sanctions Venezuela’s Most Feared Criminal Organization  Bloomberg",
+          "link": "https://news.google.com/rss/articles/CBMiuQFodHRwczovL3d3dy5zdGF0ZS5nb3YvdXAtdG8tMTItbWlsbGlvbi1pbi1yZXdhcmQtb2ZmZXJzLWZvci1pbmZvcm1hdGlvbi1sZWFkaW5nLXRvLWFycmVzdHMtYW5kLW9yLWNvbnZpY3Rpb25zLW9mLXRocmVlLWxlYWRlcnMtb2YtdGhlLXRyZW4tZGUtYXJhZ3VhLXRyYW5zbmF0aW9uYWwtY3JpbWluYWwtb3JnYW5pemF0aW9uL9IBAA?oc=5",
+          "publishedOn": "2024-07-11T15:57:11.000Z",
+          "wordCount": 8876,
+          "title": "Up to $12 Million in Reward Offers for Information Leading to Arrests and/or Convictions of Three Leaders of the Tren de Aragua Transnational Criminal Organization - Department of State",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWGh0dHBzOi8vd2VhdGhlci5jb20vbmV3cy93ZWF0aGVyL25ld3MvMjAyNC0wNy0xMS1sYS1uaW5hLWV4cGVjdGVkLXRvLWRldmVsb3AtZmFsbC13aW50ZXLSAQA",
+          "author": null,
+          "description": "La Niña Still Expected To Develop In Coming Months, Updated NOAA Outlook Says  The Weather Channel\nLa Niña running late but still on track to fuel Atlantic hurricane season just as it reaches its peak  Fox Weather \nJuly 2024 ENSO update: summer vacation  Climate.gov\nLa Nina weather 70% likely to develop in Aug-Oct, says US forecaster  Reuters\nLa Niña is coming. Here’s how it could change the weather.  The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd2VhdGhlci5jb20vbmV3cy93ZWF0aGVyL25ld3MvMjAyNC0wNy0xMS1sYS1uaW5hLWV4cGVjdGVkLXRvLWRldmVsb3AtZmFsbC13aW50ZXLSAQA?oc=5",
+          "publishedOn": "2024-07-11T15:20:23.000Z",
+          "wordCount": 8876,
+          "title": "La Niña Still Expected To Develop In Coming Months, Updated NOAA Outlook Says - The Weather Channel",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiW2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xMS9hZnJpY2Eva2VueWFzLXByZXNpZGVudC1maXJlcy1lbnRpcmUtY2FiaW5ldC1pbnRsL2luZGV4Lmh0bWzSAVRodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzExL2FmcmljYS9rZW55YXMtcHJlc2lkZW50LWZpcmVzLWVudGlyZS1jYWJpbmV0LWludGw",
+          "author": null,
+          "description": "Kenya’s President Ruto fires almost entire cabinet after protests  CNN\nWilliam Ruto: Kenyan President fires ministers over anti-tax protests  BBC.com\nKenya’s Ruto dismisses almost entire cabinet after nationwide protests  Al Jazeera English\nKenya president fires cabinet after nationwide anti-corruption protests  The Washington Post\nKenya’s Ruto Dismisses Most of His Cabinet After Deadly Riots  Bloomberg",
+          "link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xMS9hZnJpY2Eva2VueWFzLXByZXNpZGVudC1maXJlcy1lbnRpcmUtY2FiaW5ldC1pbnRsL2luZGV4Lmh0bWzSAVRodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzExL2FmcmljYS9rZW55YXMtcHJlc2lkZW50LWZpcmVzLWVudGlyZS1jYWJpbmV0LWludGw?oc=5",
+          "publishedOn": "2024-07-11T15:16:00.000Z",
+          "wordCount": 8876,
+          "title": "Kenya’s President Ruto fires almost entire cabinet after protests - CNN",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihAFodHRwczovL3d3dy5ldXJvbmV3cy5jb20vZ3JlZW4vMjAyNC8wNy8xMS9pdHMtaGVsbC1vdXRzaWRlLXBlb3BsZS13YXJuZWQtdG8tc3RheS1pbnNpZGUtYXMtaGVhdHdhdmUtc3VmZm9jYXRlcy1jZW50cmFsLWFuZC1zb3V0aGVybi3SAQA",
+          "author": null,
+          "description": "Italy, Croatia, Serbia: Europeans struggle to cope as heatwaves strike  Euronews\n‘It’s hell outside': Sizzling heat wave in parts of southern and central Europe prompts alerts  The Associated Press\nItaly Braces for Heatwave Amid Extreme Weather  ttownmedia.com\n40+ °C heatwave intensifies across eastern and southern Europe this week  Severe Weather Europe\nEurope heatwave: New volcanic weather maps show exact date Italy hits 42C and France 38C  Express",
+          "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5ldXJvbmV3cy5jb20vZ3JlZW4vMjAyNC8wNy8xMS9pdHMtaGVsbC1vdXRzaWRlLXBlb3BsZS13YXJuZWQtdG8tc3RheS1pbnNpZGUtYXMtaGVhdHdhdmUtc3VmZm9jYXRlcy1jZW50cmFsLWFuZC1zb3V0aGVybi3SAQA?oc=5",
+          "publishedOn": "2024-07-11T15:04:19.000Z",
+          "wordCount": 8876,
+          "title": "Italy, Croatia, Serbia: Europeans struggle to cope as heatwaves strike - Euronews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvY3Jvc3Nib3ctbXVyZGVycy1lbmdsYW5kLXVrLWNvbnNpZGVycy1sYXdzLWFmdGVyLWtpbGxpbmctb2YtMy13b21lbi1uZWFyLWxvbmRvbi_SAXFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9jcm9zc2Jvdy1tdXJkZXJzLWVuZ2xhbmQtdWstY29uc2lkZXJzLWxhd3MtYWZ0ZXIta2lsbGluZy1vZi0zLXdvbWVuLW5lYXItbG9uZG9uLw",
+          "author": null,
+          "description": "U.K. to consider introducing stricter crossbow laws after murders of woman and 2 daughters near London  CBS News\nTributes flood in for BBC sport commentator’s wife and daughters who were killed in suspected crossbow attack  CNN\nCrossbow murder suspect was found in cemetery with self-inflicted injuries  The Guardian\nSuspect in slaying of 3 women in 'serious condition' as UK police confirm recovery of crossbow  The Associated Press\nBBC Presenter's Wife and 2 Daughters ID'd as Victims of UK Crossbow Attack, and Suspect Is Arrested  PEOPLE",
+          "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvY3Jvc3Nib3ctbXVyZGVycy1lbmdsYW5kLXVrLWNvbnNpZGVycy1sYXdzLWFmdGVyLWtpbGxpbmctb2YtMy13b21lbi1uZWFyLWxvbmRvbi_SAXFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9jcm9zc2Jvdy1tdXJkZXJzLWVuZ2xhbmQtdWstY29uc2lkZXJzLWxhd3MtYWZ0ZXIta2lsbGluZy1vZi0zLXdvbWVuLW5lYXItbG9uZG9uLw?oc=5",
+          "publishedOn": "2024-07-11T14:37:17.000Z",
+          "wordCount": 8876,
+          "title": "U.K. to consider introducing stricter crossbow laws after murders of woman and 2 daughters near London - CBS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiqgFodHRwczovL3d3dy53aGl0ZWhvdXNlLmdvdi9icmllZmluZy1yb29tL3N0YXRlbWVudHMtcmVsZWFzZXMvMjAyNC8wNy8xMS9iaWRlbi1oYXJyaXMtYWRtaW5pc3RyYXRpb24tYW5ub3VuY2VzLW5ldy1wb2xhci1wYXJ0bmVyc2hpcC1pY2UtcGFjdC1hbG9uZ3NpZGUtZmlubGFuZC1hbmQtY2FuYWRhL9IBAA",
+          "author": null,
+          "description": "Biden-Harris Administration Announces New Polar Partnership “ICE Pact” Alongside Finland and Canada  The White House\nUS, Canada and Finland form ‘Ice Pact’ to project influence into Arctic region  The Guardian\nBollinger ready to vie for US, Canada, Findland icebreaker contracts  Defense News\nPascagoula to play key role in creating fleet of icebreakers  WLOX\nUS Makes Move Against Russia in the Arctic  Newsweek",
+          "link": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy53aGl0ZWhvdXNlLmdvdi9icmllZmluZy1yb29tL3N0YXRlbWVudHMtcmVsZWFzZXMvMjAyNC8wNy8xMS9iaWRlbi1oYXJyaXMtYWRtaW5pc3RyYXRpb24tYW5ub3VuY2VzLW5ldy1wb2xhci1wYXJ0bmVyc2hpcC1pY2UtcGFjdC1hbG9uZ3NpZGUtZmlubGFuZC1hbmQtY2FuYWRhL9IBAA?oc=5",
+          "publishedOn": "2024-07-11T14:00:00.000Z",
+          "wordCount": 8876,
+          "title": "Biden-Harris Administration Announces New Polar Partnership “ICE Pact” Alongside Finland and Canada - The White House",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3llbWVuLWhvdXRoaS1yZWJlbHMtaXJhbi1pc3JhZWwtaGFtYXMtd2FyLXJlZC1zZWEtYXR0YWNrcy0wNzZlNWU3NjRiN2JlZDU0OGIxNWNmZjQxNzViYjRkNdIBAA",
+          "author": null,
+          "description": "Yemen Houthi rebels fired an Iranian missile at Norwegian-flagged ship, debris analyzed by US shows  The Associated PressView Full Coverage on Google News",
+          "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3llbWVuLWhvdXRoaS1yZWJlbHMtaXJhbi1pc3JhZWwtaGFtYXMtd2FyLXJlZC1zZWEtYXR0YWNrcy0wNzZlNWU3NjRiN2JlZDU0OGIxNWNmZjQxNzViYjRkNdIBAA?oc=5",
+          "publishedOn": "2024-07-11T13:31:00.000Z",
+          "wordCount": 8876,
+          "title": "Yemen Houthi rebels fired an Iranian missile at Norwegian-flagged ship, debris analyzed by US shows - The Associated Press",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMigAFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS93b3JsZC9ldXJvcGUvc3BhaW5zLXRvdXJpc20tbWluaXN0ZXItY29uZGVtbnMtc3ByYXlpbmctYmFyY2Vsb25hLXZpc2l0b3JzLXdpdGgtd2F0ZXItcGlzdG9scy0yMDI0LTA3LTExL9IBAA",
+          "author": null,
+          "description": "Spain's tourism minister condemns spraying of Barcelona visitors with water pistols  Reuters\nBarcelona protesters throw items and spray travelers with water while shouting 'tourists go home'  NBC News\nSquirt Guns and ‘Go Home’ Signs: Barcelona Residents Take Aim at Tourists  The New York Times\n'It's Tourist Hunting Season': The Street Art That's Seething About Mass Tourism  HuffPost\nMass tourism protesters squirt water at Barcelona tourists  BBC.com",
+          "link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS93b3JsZC9ldXJvcGUvc3BhaW5zLXRvdXJpc20tbWluaXN0ZXItY29uZGVtbnMtc3ByYXlpbmctYmFyY2Vsb25hLXZpc2l0b3JzLXdpdGgtd2F0ZXItcGlzdG9scy0yMDI0LTA3LTExL9IBAA?oc=5",
+          "publishedOn": "2024-07-11T13:29:00.000Z",
+          "wordCount": 8876,
+          "title": "Spain's tourism minister condemns spraying of Barcelona visitors with water pistols - Reuters",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2phcGFuLXN3aW1tZXItc3dlcHQtdG8tc2VhLXJlc2N1ZWQtYTg1NTUwNjEyZDcyOWRmYzJhNTdmODE5N2QzNGZiNzLSAQA",
+          "author": null,
+          "description": "Woman swept to sea while swimming at a Japanese beach rescued 37 hours later and 50 miles away  The Associated Press\nWoman swept out to sea off Japanese beach is rescued 37 hours later -- and 50 miles offshore  Fox News\nSwimmer rescued 80km off Japan coast, 36 hours after being swept out to sea  The Guardian\nWoman saved after floating for 37 hours on pool float, rescued 50 miles away from Japanese beach  New York Post \nWoman Rescued 50 Miles from Japanese Beach, 37 Hours After Going Swimming with Rubber Ring  PEOPLE",
+          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2phcGFuLXN3aW1tZXItc3dlcHQtdG8tc2VhLXJlc2N1ZWQtYTg1NTUwNjEyZDcyOWRmYzJhNTdmODE5N2QzNGZiNzLSAQA?oc=5",
+          "publishedOn": "2024-07-11T13:26:00.000Z",
+          "wordCount": 8876,
+          "title": "Woman swept to sea while swimming at a Japanese beach rescued 37 hours later and 50 miles away - The Associated Press",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvc211Z2dsZXItY2F1Z2h0LTEwNC1zbmFrZXMtcGFudHMtY2hpbmVzZS1ib3JkZXItcmNuYTE2MTMwNtIBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExNjEzMDY",
+          "author": null,
+          "description": "Smuggler is caught with 104 snakes in his pants at Chinese border  NBC News\nHe Tried To Smuggle 104 Live Snakes — In His Pants  The Weather Channel\nA man is caught attempting to smuggle 100 live snakes into China in his pants  NPR\nVideo shows smuggler attempting to transport 104 live snakes concealed in pants  Fox News\nMan caught trying to smuggle 104 live snakes — in his pants  The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvc211Z2dsZXItY2F1Z2h0LTEwNC1zbmFrZXMtcGFudHMtY2hpbmVzZS1ib3JkZXItcmNuYTE2MTMwNtIBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExNjEzMDY?oc=5",
+          "publishedOn": "2024-07-11T13:22:51.000Z",
+          "wordCount": 8876,
+          "title": "Smuggler is caught with 104 snakes in his pants at Chinese border - NBC News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMia2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMTEvcnVzc2lhLXdhcm5zLWl0LXdpbGwtZGV0ZXItbmF0by1hcy1pdC1jcmVlcHMtY2xvc2VyLXRvLWl0cy1ib3JkZXJz0gFvaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzcvMTEvcnVzc2lhLXdhcm5zLWl0LXdpbGwtZGV0ZXItbmF0by1hcy1pdC1jcmVlcHMtY2xvc2VyLXRvLWl0cy1ib3JkZXJz",
+          "author": null,
+          "description": "Russia warns it will ‘deter’ NATO as it creeps closer to its borders  Al Jazeera English\nUkraine-Russia war latest: Biden mistakes Zelenskyy for Putin during introduction to Ukraine president's NATO speech  Sky News\nRussia Plans 'Response' To Contain 'Serious Threat' From NATO: Kremlin  Barron's\nPutin is about to deliver Nato’s final humiliation  The Telegraph\nKremlin says NATO's military infrastructure is creeping closer to its borders - report  The Jerusalem Post",
+          "link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMTEvcnVzc2lhLXdhcm5zLWl0LXdpbGwtZGV0ZXItbmF0by1hcy1pdC1jcmVlcHMtY2xvc2VyLXRvLWl0cy1ib3JkZXJz0gFvaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzcvMTEvcnVzc2lhLXdhcm5zLWl0LXdpbGwtZGV0ZXItbmF0by1hcy1pdC1jcmVlcHMtY2xvc2VyLXRvLWl0cy1ib3JkZXJz?oc=5",
+          "publishedOn": "2024-07-11T13:05:50.000Z",
+          "wordCount": 8876,
+          "title": "Russia warns it will ‘deter’ NATO as it creeps closer to its borders - Al Jazeera English",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYGh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS91a3JhaW5lLXdhci1tYXBzLWNvdW50ZXJhdHRhY2tzLWtoYXJraXYtbHVoYW5zay1ydXNzaWEtbmF0by1haWQtMTkyMzc0NNIBAA",
+          "author": null,
+          "description": "Ukraine War Maps Show Two 'Successful Localized Counterattacks' by Kyiv  Newsweek\nRussians failed to advance on Borova axis - military  Ukrinform\nUkraine's 3rd Assault Brigade says it halted Russian advance toward Borova in Kharkiv Oblast  Kyiv Independent\nUkrainian attacks on supply lines slowed Russians in Kharkiv, intercepts show  The Washington Post\nWhy Russia's offensive in Ukraine may have stalled  DW (English)",
+          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS91a3JhaW5lLXdhci1tYXBzLWNvdW50ZXJhdHRhY2tzLWtoYXJraXYtbHVoYW5zay1ydXNzaWEtbmF0by1haWQtMTkyMzc0NNIBAA?oc=5",
+          "publishedOn": "2024-07-11T12:44:46.000Z",
+          "wordCount": 8876,
+          "title": "Ukraine War Maps Show Two 'Successful Localized Counterattacks' by Kyiv - Newsweek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMTEvZnJlbmNoLWZpcmVmaWdodGVycy1ydXNoLXRvLXB1dC1vdXQtYmxhemUtYXQtcm91ZW4tY2F0aGVkcmFs0gFpaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzcvMTEvZnJlbmNoLWZpcmVmaWdodGVycy1ydXNoLXRvLXB1dC1vdXQtYmxhemUtYXQtcm91ZW4tY2F0aGVkcmFs",
+          "author": null,
+          "description": "French firefighters rush to put out blaze at Rouen cathedral  Al Jazeera English\nFire breaks out in spire of French cathedral  CNN\nRouen Cathedral fire brought under control in Normandy  The Guardian\nRouen Cathedral That Monet Painted Is Saved from Fire  ARTnews\nMedieval Rouen cathedral in France caught fire  Al Jazeera English",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMTEvZnJlbmNoLWZpcmVmaWdodGVycy1ydXNoLXRvLXB1dC1vdXQtYmxhemUtYXQtcm91ZW4tY2F0aGVkcmFs0gFpaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzcvMTEvZnJlbmNoLWZpcmVmaWdodGVycy1ydXNoLXRvLXB1dC1vdXQtYmxhemUtYXQtcm91ZW4tY2F0aGVkcmFs?oc=5",
+          "publishedOn": "2024-07-11T12:30:15.000Z",
+          "wordCount": 8876,
+          "title": "French firefighters rush to put out blaze at Rouen cathedral - Al Jazeera English",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL3RvcC1yYWJiaXMtb3JkZXIteWVzaGl2YS1zdHVkZW50cy10by1pZ25vcmUtaWRmLWNhbGwtdXBzLWFtaWQtYnJld2luZy1jb2FsaXRpb24tY3Jpc2lzL9IBAA",
+          "author": null,
+          "description": "Top rabbis order yeshiva students to ignore IDF call-ups amid brewing coalition crisis  The Times of Israel\nIsrael's Planned Draft of ultra-Orthodox Falls Far Short of the Army's Current Needs  Haaretz\n'Do not show up at recruitment offices': Haredi rabbi responds to Gallant's draft goal  The Jerusalem Post\nIsrael's defence minister OKs plan to start drafting ultra-Orthodox  Reuters\n'Israel has no right to exist', Chief Rabbis say upon Haredim draft  Al Mayadeen English",
+          "link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL3RvcC1yYWJiaXMtb3JkZXIteWVzaGl2YS1zdHVkZW50cy10by1pZ25vcmUtaWRmLWNhbGwtdXBzLWFtaWQtYnJld2luZy1jb2FsaXRpb24tY3Jpc2lzL9IBAA?oc=5",
+          "publishedOn": "2024-07-11T12:09:11.000Z",
+          "wordCount": 8876,
+          "title": "Top rabbis order yeshiva students to ignore IDF call-ups amid brewing coalition crisis - The Times of Israel",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMivAFodHRwczovL3d3dy5oYWFyZXR6LmNvbS9pc3JhZWwtbmV3cy8yMDI0LTA3LTExL3R5LWFydGljbGUvLnByZW1pdW0vcmVzY3VlZC1pc3JhZWxpLWhvc3RhZ2Utc3Vlcy11LXMtbm9uLXByb2ZpdC10aGF0LWVtcGxveWVkLXBhbGVzdGluaWFuLWNhcHRvci1pbi1nYXphLzAwMDAwMTkwLTljODEtZDA3ZS1hNzk4LWJlYjEzNjM1MDAwMNIBAA",
+          "author": null,
+          "description": "Rescued Israeli Hostage Sues U.S. Non-profit That Employed Palestinian Captor in Gaza  Haaretz\nRescued hostage sues US nonprofit with ties to Gaza journalist who held him captive  The Times of Israel\nFormer Israeli hostage sues US nonprofit for allegedly paying Hamas operative who held him captive  ABC News\nTop House lawmakers demand federal probe into US nonprofit linked to Hamas operative  Fox News\nFormer Israeli hostage sues US non-profit who employed ‘Hamas operative’ who held him captive  New York Post",
+          "link": "https://news.google.com/rss/articles/CBMivAFodHRwczovL3d3dy5oYWFyZXR6LmNvbS9pc3JhZWwtbmV3cy8yMDI0LTA3LTExL3R5LWFydGljbGUvLnByZW1pdW0vcmVzY3VlZC1pc3JhZWxpLWhvc3RhZ2Utc3Vlcy11LXMtbm9uLXByb2ZpdC10aGF0LWVtcGxveWVkLXBhbGVzdGluaWFuLWNhcHRvci1pbi1nYXphLzAwMDAwMTkwLTljODEtZDA3ZS1hNzk4LWJlYjEzNjM1MDAwMNIBAA?oc=5",
+          "publishedOn": "2024-07-11T10:15:00.000Z",
+          "wordCount": 8876,
+          "title": "Rescued Israeli Hostage Sues U.S. Non-profit That Employed Palestinian Captor in Gaza - Haaretz",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiY2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMTEvdWtyYWluZS1zZWl6ZXMtY2FyZ28tc2hpcC1jYXJyeWluZy1sb290ZWQtZ3JhaW4tZm9yLXJ1c3NpYdIBZ2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyNC83LzExL3VrcmFpbmUtc2VpemVzLWNhcmdvLXNoaXAtY2FycnlpbmctbG9vdGVkLWdyYWluLWZvci1ydXNzaWE",
+          "author": null,
+          "description": "Ukraine seizes cargo ship carrying ‘looted’ grain for Russia  Al Jazeera English\nUkraine Turns Tables on Putin's Black Sea Blockade  Newsweek\nKyiv detains cargo vessel for allegedly shipping Ukrainian grain from occupied Crimea.  Kyiv Independent\nUkraine arrests and seizes foreign vessel on Danube for entering occupied Crimea  Ukrainska Pravda\nUkraine Says It Seized Vessel That Had Ferried ‘Looted’ Grain  Bloomberg",
+          "link": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMTEvdWtyYWluZS1zZWl6ZXMtY2FyZ28tc2hpcC1jYXJyeWluZy1sb290ZWQtZ3JhaW4tZm9yLXJ1c3NpYdIBZ2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vYW1wL25ld3MvMjAyNC83LzExL3VrcmFpbmUtc2VpemVzLWNhcmdvLXNoaXAtY2FycnlpbmctbG9vdGVkLWdyYWluLWZvci1ydXNzaWE?oc=5",
+          "publishedOn": "2024-07-11T10:03:24.000Z",
+          "wordCount": 8876,
+          "title": "Ukraine seizes cargo ship carrying ‘looted’ grain for Russia - Al Jazeera English",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWmh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDI0LzA3LzExL291dC1vZi1jb250cm9sLWhlYXQtaXMtbWFraW5nLWVhcnRoLW1vcmUtd2VpcmQtLWFuZC1tb3JlL9IBAA",
+          "author": null,
+          "description": "Out-of-control heat is making Earth more \"weird\" — and more deadly  Salon\nCopernicus: June 2024 marks 12th month of global temperature reaching 1.5°C above pre-industrial  Copernicus Climate Change Service\n‘More Heat, More Often’: Temperature Records Keep Breaking  The New York Times\nExtreme heat waves broiling the US in 2024 aren’t normal: How climate change is heating up weather around the world  The Conversation\n‘Stark warning’ as global temperatures hit record levels for 13th month  Al Jazeera English",
+          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnNhbG9uLmNvbS8yMDI0LzA3LzExL291dC1vZi1jb250cm9sLWhlYXQtaXMtbWFraW5nLWVhcnRoLW1vcmUtd2VpcmQtLWFuZC1tb3JlL9IBAA?oc=5",
+          "publishedOn": "2024-07-11T09:30:00.000Z",
+          "wordCount": 8876,
+          "title": "Out-of-control heat is making Earth more \"weird\" — and more deadly - Salon",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX2h0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS8yMDI0LzA3LzExL2lzcmFlbC1vcmRlcnMtZXZhY3VhdGlvbi1vZi1hbGwtcGFsZXN0aW5pYW5zLWZyb20tZ2F6YS1jaXR50gEA",
+          "author": null,
+          "description": "All Palestinians ordered to leave Gaza City  EuronewsView Full Coverage on Google News",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS8yMDI0LzA3LzExL2lzcmFlbC1vcmRlcnMtZXZhY3VhdGlvbi1vZi1hbGwtcGFsZXN0aW5pYW5zLWZyb20tZ2F6YS1jaXR50gEA?oc=5",
+          "publishedOn": "2024-07-11T09:16:08.000Z",
+          "wordCount": 8876,
+          "title": "All Palestinians ordered to leave Gaza City - Euronews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicGh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL3BvbGwtOTYtb2YtamV3cy1pbi0xMy1ldS1jb3VudHJpZXMtc2F5LXRoZXktZXhwZXJpZW5jZS1hbnRpc2VtaXRpc20taW4tZGFpbHktbGlmZS_SAXRodHRwczovL3d3dy50aW1lc29maXNyYWVsLmNvbS9wb2xsLTk2LW9mLWpld3MtaW4tMTMtZXUtY291bnRyaWVzLXNheS10aGV5LWV4cGVyaWVuY2UtYW50aXNlbWl0aXNtLWluLWRhaWx5LWxpZmUvYW1wLw",
+          "author": null,
+          "description": "Poll: 96% of Jews in 13 EU countries say they experience antisemitism in daily life  The Times of Israel\n'Wave of antisemitism' in EU influenced by Israel-Gaza war - survey  BBC.com\nEuropeans are experiencing a ‘wave of antisemitism’, survey finds  The Guardian\nAnti-Semitism swells in Europe amid Gaza war, says EU watchdog  Al Jazeera English\nJews in Europe face rising antisemitism: report  DW (English)",
+          "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL3BvbGwtOTYtb2YtamV3cy1pbi0xMy1ldS1jb3VudHJpZXMtc2F5LXRoZXktZXhwZXJpZW5jZS1hbnRpc2VtaXRpc20taW4tZGFpbHktbGlmZS_SAXRodHRwczovL3d3dy50aW1lc29maXNyYWVsLmNvbS9wb2xsLTk2LW9mLWpld3MtaW4tMTMtZXUtY291bnRyaWVzLXNheS10aGV5LWV4cGVyaWVuY2UtYW50aXNlbWl0aXNtLWluLWRhaWx5LWxpZmUvYW1wLw?oc=5",
+          "publishedOn": "2024-07-11T08:56:25.000Z",
+          "wordCount": 8876,
+          "title": "Poll: 96% of Jews in 13 EU countries say they experience antisemitism in daily life - The Times of Israel",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiVmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xMS9hc2lhL3Bha2lzdGFuLWV4dGVuZHMtdmlzYXMtYWZnaGFucy1pbnRsLWhuay9pbmRleC5odG1s0gFPaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8xMS9hc2lhL3Bha2lzdGFuLWV4dGVuZHMtdmlzYXMtYWZnaGFucy1pbnRsLWhuaw",
+          "author": null,
+          "description": "Pakistan extends visas for 1.45 million Afghans but denies deportations on hold  CNN\nPakistan extends Afghan refugee registration cards for one year  Reuters\nPakistan says registered Afghan refugees can stay for one more year  Al Jazeera English\n44,000 Afghans in Pakistan still awaiting US, foreign resettlement  DAWN.com\nPakistan says 1.45 million Afghans can stay for another year following UN refugee chief's visit  The Associated Press",
+          "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xMS9hc2lhL3Bha2lzdGFuLWV4dGVuZHMtdmlzYXMtYWZnaGFucy1pbnRsLWhuay9pbmRleC5odG1s0gFPaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8xMS9hc2lhL3Bha2lzdGFuLWV4dGVuZHMtdmlzYXMtYWZnaGFucy1pbnRsLWhuaw?oc=5",
+          "publishedOn": "2024-07-11T08:28:00.000Z",
+          "wordCount": 8876,
+          "title": "Pakistan extends visas for 1.45 million Afghans but denies deportations on hold - CNN",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvc2xhaW4taXNsYW1pYy1zdGF0ZS1sZWFkZXJzLXdpZmUtc2VudGVuY2VkLWRlYXRoLWNyaW1lcy15YXppZGktd29tZW4tcmNuYTE2MTMwMtIBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExNjEzMDI",
+          "author": null,
+          "description": "Islamic State leader's wife sentenced to death by Iraqi court  NBC News\nIraq Sentences ISIS Leader’s Wife to Death Over Crimes Against Yazidis  The New York Times\nIraq court sentences a widow of ISIL leader al-Baghdadi to death  Al Jazeera English\nWife of late Islamic State leader sentenced to death in Iraq  Voice of America - VOA News\nIraq issues death sentence against wife of late ISIS leader Abu Bakr al-Baghdadi  Yahoo! Voices",
+          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvc2xhaW4taXNsYW1pYy1zdGF0ZS1sZWFkZXJzLXdpZmUtc2VudGVuY2VkLWRlYXRoLWNyaW1lcy15YXppZGktd29tZW4tcmNuYTE2MTMwMtIBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExNjEzMDI?oc=5",
+          "publishedOn": "2024-07-11T07:57:29.000Z",
+          "wordCount": 8876,
+          "title": "Islamic State leader's wife sentenced to death by Iraqi court - NBC News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMTEvdXMtcmVzdW1lcy1zZW5kaW5nLXNoaXBtZW50cy1vZi01MDAtcG91bmQtYm9tYnMtdG8taXNyYWVs0gFmaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzcvMTEvdXMtcmVzdW1lcy1zZW5kaW5nLXNoaXBtZW50cy1vZi01MDAtcG91bmQtYm9tYnMtdG8taXNyYWVs",
+          "author": null,
+          "description": "US resumes sending shipments of 500-pound bombs to Israel  Al Jazeera English\nU.S. to again ship 500-pound bombs to Israel, reversing suspension  The Washington Post\nUS sending Israel some heavy bombs that Biden withheld ahead of Rafah op  The Times of Israel\nDespite Gaza War Crimes Accusations, Biden Sends Israel More 500-Pound Bombs  Common Dreams\nUS to resume shipments of 500lb bombs to Israel  BBC.com",
+          "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMTEvdXMtcmVzdW1lcy1zZW5kaW5nLXNoaXBtZW50cy1vZi01MDAtcG91bmQtYm9tYnMtdG8taXNyYWVs0gFmaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzcvMTEvdXMtcmVzdW1lcy1zZW5kaW5nLXNoaXBtZW50cy1vZi01MDAtcG91bmQtYm9tYnMtdG8taXNyYWVs?oc=5",
+          "publishedOn": "2024-07-11T06:56:15.000Z",
+          "wordCount": 8876,
+          "title": "US resumes sending shipments of 500-pound bombs to Israel - Al Jazeera English",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiU2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMTEvaG93LWlzcmFlbC1rZWVwcy1zdGVhbGluZy1wYWxlc3Rpbmlhbi1sYW5k0gFXaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzcvMTEvaG93LWlzcmFlbC1rZWVwcy1zdGVhbGluZy1wYWxlc3Rpbmlhbi1sYW5k",
+          "author": null,
+          "description": "Visualising how Israel keeps stealing Palestinian land  Al Jazeera English\nG7 denounces Israel's settlement expansion in West Bank  Reuters\nSmotrich Has Completed Israel's Annexation of the West Bank  Haaretz\nG7 ministers rap Israel for expanding settlements, withholding PA funds  The Times of Israel\nG7 condemns Israeli creation of new West Bank settlements  The Jerusalem Post",
+          "link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMTEvaG93LWlzcmFlbC1rZWVwcy1zdGVhbGluZy1wYWxlc3Rpbmlhbi1sYW5k0gFXaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzcvMTEvaG93LWlzcmFlbC1rZWVwcy1zdGVhbGluZy1wYWxlc3Rpbmlhbi1sYW5k?oc=5",
+          "publishedOn": "2024-07-11T06:38:50.000Z",
+          "wordCount": 8876,
+          "title": "Visualising how Israel keeps stealing Palestinian land - Al Jazeera English",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiVmh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS9kYWlseS1zaG93LXRydW1wLXJhbGx5LW11c2ljX25fNjY4ZjU4MGVlNGIwZmI3NDQxNjZlZmE30gFaaHR0cHM6Ly93d3cuaHVmZnBvc3QuY29tL2VudHJ5L2RhaWx5LXNob3ctdHJ1bXAtcmFsbHktbXVzaWNfbl82NjhmNTgwZWU0YjBmYjc0NDE2NmVmYTcvYW1w",
+          "author": null,
+          "description": "‘Daily Show’ Reveals Trump Clip So Bonkers They Had To Say They Didn’t Alter It  HuffPost\nDesi Lydic and Jordan Klepper discuss Trump's most recent insane ramblings  Boing Boing\nJordan Klepper Exposes What Trump's 'Oddly Familiar' Phrase Really Means  Yahoo Entertainment",
+          "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lmh1ZmZwb3N0LmNvbS9lbnRyeS9kYWlseS1zaG93LXRydW1wLXJhbGx5LW11c2ljX25fNjY4ZjU4MGVlNGIwZmI3NDQxNjZlZmE30gFaaHR0cHM6Ly93d3cuaHVmZnBvc3QuY29tL2VudHJ5L2RhaWx5LXNob3ctdHJ1bXAtcmFsbHktbXVzaWNfbl82NjhmNTgwZWU0YjBmYjc0NDE2NmVmYTcvYW1w?oc=5",
+          "publishedOn": "2024-07-11T05:36:31.000Z",
+          "wordCount": 8876,
+          "title": "‘Daily Show’ Reveals Trump Clip So Bonkers They Had To Say They Didn’t Alter It - HuffPost",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMic2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA3LTExL3dlYWx0aHktZnJlbmNoLXNwb29rZWQtYnktZWxlY3Rpb24tZXhwbG9yZS1wb3NzaWJsZS1tb3Zlcy1hYnJvYWTSAQA",
+          "author": null,
+          "description": "Wealthy French Spooked by Election Explore Possible Moves Abroad  Bloomberg\nElection Setbacks Leave France’s Far Right at a Crossroads  The New York Times\nThe French far right may not have peaked  The Economist\nPeople of diverse backgrounds in France welcome far right's defeat, but fear a rise in hate speech  The Associated Press\nMacron breaks his silence on France's election earthquake as post-vote deadlock continues  CNBC",
+          "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA3LTExL3dlYWx0aHktZnJlbmNoLXNwb29rZWQtYnktZWxlY3Rpb24tZXhwbG9yZS1wb3NzaWJsZS1tb3Zlcy1hYnJvYWTSAQA?oc=5",
+          "publishedOn": "2024-07-11T04:00:00.000Z",
+          "wordCount": 8876,
+          "title": "Wealthy French Spooked by Election Explore Possible Moves Abroad - Bloomberg",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXGh0dHBzOi8vd3d3LmR3LmNvbS9lbi90YWl3YW4tc2Vlcy1zaW5nbGUtZGF5LXJlY29yZC1vZi1jaGluZXNlLXBsYW5lcy1pbi1haXJzcGFjZS9hLTY5NjIzMTc30gFcaHR0cHM6Ly9hbXAuZHcuY29tL2VuL3RhaXdhbi1zZWVzLXNpbmdsZS1kYXktcmVjb3JkLW9mLWNoaW5lc2UtcGxhbmVzLWluLWFpcnNwYWNlL2EtNjk2MjMxNzc",
+          "author": null,
+          "description": "Taiwan sees single-day record of Chinese planes in airspace  DW (English)\nChinese Carrier Strike Group Operating in Philippine Sea  USNI News\nTaiwan monitors Chinese military surge, calls China a threat to stability  Reuters\nUS and Ally Shadow Chinese Carrier Group in Pacific  Newsweek\nTaiwan says record number of Chinese warplanes detected amid NATO summit  Al Jazeera English",
+          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmR3LmNvbS9lbi90YWl3YW4tc2Vlcy1zaW5nbGUtZGF5LXJlY29yZC1vZi1jaGluZXNlLXBsYW5lcy1pbi1haXJzcGFjZS9hLTY5NjIzMTc30gFcaHR0cHM6Ly9hbXAuZHcuY29tL2VuL3RhaXdhbi1zZWVzLXNpbmdsZS1kYXktcmVjb3JkLW9mLWNoaW5lc2UtcGxhbmVzLWluLWFpcnNwYWNlL2EtNjk2MjMxNzc?oc=5",
+          "publishedOn": "2024-07-11T03:23:38.000Z",
+          "wordCount": 8876,
+          "title": "Taiwan sees single-day record of Chinese planes in airspace - DW (English)",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYGh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvZXUtZnVtZXMtcm9ndWUtdmlrdG9yLW9yYmFuLWh1bmdhcmlhbi1wcmVzaWRlbmN5LWVudm95LWJydXNzZWxzL9IBAA",
+          "author": null,
+          "description": "EU fumes at rogue Orbán, but struggles to rein him in  POLITICO Europe\nHow Orban Became Putin’s Pawn  Foreign Policy\nViktor Orbán’s trip to Moscow in breach of EU treaties, legal service says  Financial Times\nOrbán: From dissident to Putin’s Hungarian boyar  POLITICO Europe\nSome EU states won't send ministers to presidency meetings in protest at Orban's Russia trip  Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvZXUtZnVtZXMtcm9ndWUtdmlrdG9yLW9yYmFuLWh1bmdhcmlhbi1wcmVzaWRlbmN5LWVudm95LWJydXNzZWxzL9IBAA?oc=5",
+          "publishedOn": "2024-07-11T03:00:00.000Z",
+          "wordCount": 8876,
+          "title": "EU fumes at rogue Orbán, but struggles to rein him in - POLITICO Europe",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcnVzc2lhLXRod2FydHMtcHJlY2VzaW9uLXdlYXBvbnMtdWtyYWluZS13YXItdW5ndWlkZWQtYXJ0aWxsZXJ5LTIwMjQtN9IBamh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcnVzc2lhLXRod2FydHMtcHJlY2VzaW9uLXdlYXBvbnMtdWtyYWluZS13YXItdW5ndWlkZWQtYXJ0aWxsZXJ5LTIwMjQtNz9hbXA",
+          "author": null,
+          "description": "Unguided artillery still valuable as Russia thwarts precision weapons: general  Business InsiderView Full Coverage on Google News",
+          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcnVzc2lhLXRod2FydHMtcHJlY2VzaW9uLXdlYXBvbnMtdWtyYWluZS13YXItdW5ndWlkZWQtYXJ0aWxsZXJ5LTIwMjQtN9IBamh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vcnVzc2lhLXRod2FydHMtcHJlY2VzaW9uLXdlYXBvbnMtdWtyYWluZS13YXItdW5ndWlkZWQtYXJ0aWxsZXJ5LTIwMjQtNz9hbXA?oc=5",
+          "publishedOn": "2024-07-11T02:04:00.000Z",
+          "wordCount": 8876,
+          "title": "Unguided artillery still valuable as Russia thwarts precision weapons: general - Business Insider",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xMS93b3JsZC92aWRlby9leGNsdXNpdmUtZm9vdGFnZS1jYXB0dXJlcy1ydXNzaWFuLWxlZC1zYWJvdGV1ci1pbi10aGUtYWN00gEA",
+          "author": null,
+          "description": "Watch: Exclusive footage captures Russian-led saboteur in the act  CNN\nFrom $7 graffiti to arson and a bomb plot: How Russia’s ‘shadow war’ on NATO members has evolved  CNN\nNATO chief: Allies combat Russian hybrid attacks with intelligence, more support for Ukraine  The Hill\nRussia recruits sympathizers online for sabotage in Europe, officials say  The Washington Post\nRussia Conducting 'Shadow War' To Destabilize European Countries, Leaders Say  Radio Free Europe / Radio Liberty",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xMS93b3JsZC92aWRlby9leGNsdXNpdmUtZm9vdGFnZS1jYXB0dXJlcy1ydXNzaWFuLWxlZC1zYWJvdGV1ci1pbi10aGUtYWN00gEA?oc=5",
+          "publishedOn": "2024-07-11T00:29:49.000Z",
+          "wordCount": 8876,
+          "title": "Watch: Exclusive footage captures Russian-led saboteur in the act - CNN",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiV2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjQvMDcvMTAvbmF0by1zdW1taXQtaW5mbHVlbmNlcnMtc3VtbWl0LWRjL9IBAA",
           "author": null,
           "description": "NATO’s newest weapon is online content creators  The Washington Post\nSurprised by Tony P’s NATO video? He was too.  The Washington Post\nInfluencer hired by State Department to film NATO promo video thought it was about ‘Sharknado’  New York Post \nTikTok, Instagram Influencers Help Aging NATO Connect With Gen Z  Bloomberg\nTony P Welcomes the World to the NATO Summit—Wait, What?  Washingtonian",
@@ -26,6 +586,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNzI3djNkNXY0bG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzcyN3YzZDV2NGxvLmFtcA",
+          "author": null,
+          "description": "'Relief' as Canadian serial killer Jeremy Skibicki found guilty  BBC.com\nWinnipeg serial killer guilty of murdering 4 women in case underscoring 'grim reality' of MMIWG  CBC.ca\nCanadian serial killer given life sentence for murders of Indigenous women  The Guardian\nSkibicki found guilty of murdering four Indigenous women  Winnipeg Free Press\nManitoba serial killer’s legal defence could make history if judge rules he is not criminally responsible  The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNzI3djNkNXY0bG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzcyN3YzZDV2NGxvLmFtcA?oc=5",
+          "publishedOn": "2024-07-10T23:25:14.000Z",
+          "wordCount": 8876,
+          "title": "'Relief' as Canadian serial killer Jeremy Skibicki found guilty - BBC.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTAvdXMvcG9saXRpY3MvbmF0by1jaGluYS1ydXNzaWEtdWtyYWluZS5odG1s0gEA",
           "author": null,
           "description": "For First Time, NATO Accuses China of Supplying Russia’s Attacks on Ukraine  The New York Times\nNato warns China over ‘decisive enabler’ role with Russia in Ukraine war  South China Morning Post\nNATO allies call China a ‘decisive enabler’ of Russia’s war in Ukraine  The Associated Press\nWhy NATO Should Stay Out of Asia  Foreign Affairs Magazine\nNATO Set to Call Out China Over Support for Russia’s War Machine  Bloomberg",
@@ -33,6 +603,16 @@
           "publishedOn": "2024-07-10T22:35:52.000Z",
           "wordCount": 8862,
           "title": "For First Time, NATO Accuses China of Supplying Russia’s Attacks on Ukraine - The New York Times",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xMC9nLXMxLTkyOTIvdS1zLXNvY2Nlci1maXJlcy11c21udC1tZW5zLW5hdGlvbmFsLXRlYW0tY29hY2gtZ3JlZ2ctYmVyaGFsdGVy0gEA",
+          "author": null,
+          "description": "U.S. Soccer fires men's national team coach Gregg Berhalter  NPR\nSources: USMNT approaches Klopp; move unlikely  ESPN\nGregg Berhalter is out, who should replace him? Plus, the Euro and Copa finals are set  Yahoo Sports\nUSMNT 'prepared to invest' in 'serial winning coach,' targeting hire by September  FOX Sports\nJurgen Klopp responds to surprise approach by USA men’s national team  The Independent",
+          "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xMC9nLXMxLTkyOTIvdS1zLXNvY2Nlci1maXJlcy11c21udC1tZW5zLW5hdGlvbmFsLXRlYW0tY29hY2gtZ3JlZ2ctYmVyaGFsdGVy0gEA?oc=5",
+          "publishedOn": "2024-07-10T22:34:55.000Z",
+          "wordCount": 8876,
+          "title": "U.S. Soccer fires men's national team coach Gregg Berhalter - NPR",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -56,6 +636,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiTmh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xMC8xMTk4OTEyODY3L3J1c3NpYS1pcy10b3Atb2YtbWluZC1hdC1uYXRvLXN1bW1pdNIBAA",
+          "author": null,
+          "description": "Russia is Top of Mind at NATO summit  NPR\nLithuanian foreign minister warns Putin watching NATO for weakness following children's hospital bombing  Fox News\nNATO allies: West must give Ukraine tech superiority to beat Russia  Business Insider\nLatvian foreign minister: Putin is counting on West to get tired  Voice of America - VOA News\nBaltic state ministers urge fellow NATO members to boost defense spend  Defense News",
+          "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xMC8xMTk4OTEyODY3L3J1c3NpYS1pcy10b3Atb2YtbWluZC1hdC1uYXRvLXN1bW1pdNIBAA?oc=5",
+          "publishedOn": "2024-07-10T21:36:42.000Z",
+          "wordCount": 8876,
+          "title": "Russia is Top of Mind at NATO summit - NPR",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMifWh0dHBzOi8vd3d3LmZveHNwb3J0cy5jb20vc3Rvcmllcy9zb2NjZXIvc291cmNlcy1ncmVnZy1iZXJoYWx0ZXItb3V0LXVzbW50LWhlYWQtY29hY2gtZm9sbG93aW5nLWNvcGEtYW1lcmljYS1ncm91cC1zdGFnZS1leGl00gF9aHR0cHM6Ly9hbXAuZm94c3BvcnRzLmNvbS9zdG9yaWVzL3NvY2Nlci9zb3VyY2VzLWdyZWdnLWJlcmhhbHRlci1vdXQtdXNtbnQtaGVhZC1jb2FjaC1mb2xsb3dpbmctY29wYS1hbWVyaWNhLWdyb3VwLXN0YWdlLWV4aXQ",
           "author": null,
           "description": "Sources: Gregg Berhalter out as USMNT head coach following Copa América group stage exit  FOX Sports\nBerhalter fired as USMNT coach after Copa failure  ESPN\nWhat should the United States look for in their next USMNT Coach? | 2024 Copa América  FOX Sports\nTop 3 candidates to replace Gregg Berhalter as US coach after firing  USA TODAY\nUSA sack Gregg Berhalter after early Copa America exit  BBC.com",
@@ -73,6 +663,16 @@
           "publishedOn": "2024-07-10T21:16:49.000Z",
           "wordCount": 8862,
           "title": "Israeli strike hits Gaza soccer game, killing dozens, witnesses say - USA TODAY",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xMC8xMTk2OTgyNDc1L3RoZS1mYXRlLW9mLXRoZS1pc3JhZWxpLWhvc3RhZ2VzLWFuZC10aGUtZnV0dXJlLW9mLWdhemHSAQA",
+          "author": null,
+          "description": "The Fate of the Israeli Hostages and the Future of Gaza  NPR\nCalling for deal, hostage families continue four-day march to Jerusalem  The Times of Israel\nIsrael Police working to allow hostage families to march from Tel Aviv to Jerusalem  The Jerusalem Post\nAfter 9 Months of War, Israelis Call for a Cease-Fire Deal and Elections  The New York Times\nIsraelis’ Frustration With Netanyahu Builds as War Hits Nine Months  The Wall Street Journal",
+          "link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xMC8xMTk2OTgyNDc1L3RoZS1mYXRlLW9mLXRoZS1pc3JhZWxpLWhvc3RhZ2VzLWFuZC10aGUtZnV0dXJlLW9mLWdhemHSAQA?oc=5",
+          "publishedOn": "2024-07-10T21:11:15.000Z",
+          "wordCount": 8876,
+          "title": "The Fate of the Israeli Hostages and the Future of Gaza - NPR",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -143,6 +743,26 @@
           "publishedOn": "2024-07-10T17:57:52.000Z",
           "wordCount": 8862,
           "title": "Macron calls for ‘governing pact’ in French parliament - Financial Times",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiQ2h0dHBzOi8vd3d3LmRhaWx5c2lnbmFsLmNvbS8yMDI0LzA3LzEwL3RoZS01LXN0YWdlcy1vZi1iaWRlbi1ncmllZi_SAUdodHRwczovL3d3dy5kYWlseXNpZ25hbC5jb20vMjAyNC8wNy8xMC90aGUtNS1zdGFnZXMtb2YtYmlkZW4tZ3JpZWYvYW1wLw",
+          "author": null,
+          "description": "Too Little Too Late: Democrats Stuck With Biden  Daily Signal\nOpinion | The Democrats have a lot of options. Surrender can’t be one of them.  The Washington Post\nJoe Biden and Democrats must unite against Donald Trump  MSNBC\nA Crisis for Democrats  The Atlantic\nPlaybook: The Democratic split to watch  POLITICO",
+          "link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmRhaWx5c2lnbmFsLmNvbS8yMDI0LzA3LzEwL3RoZS01LXN0YWdlcy1vZi1iaWRlbi1ncmllZi_SAUdodHRwczovL3d3dy5kYWlseXNpZ25hbC5jb20vMjAyNC8wNy8xMC90aGUtNS1zdGFnZXMtb2YtYmlkZW4tZ3JpZWYvYW1wLw?oc=5",
+          "publishedOn": "2024-07-10T17:31:56.000Z",
+          "wordCount": 8876,
+          "title": "Too Little Too Late: Democrats Stuck With Biden - Daily Signal",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMixQFodHRwczovL3d3dy5oYWFyZXR6LmNvbS9pc3JhZWwtbmV3cy9zZWN1cml0eS1hdmlhdGlvbi8yMDI0LTA3LTEwL3R5LWFydGljbGUvdXAtdG8tZGF0ZS1hZXJpYWwtaW50ZWwtdGhlLXNjYXJpZXN0LWxlc3Nvbi1mcm9tLWhlemJvbGxhaHMtZm9vdGFnZS1vZi1pbnNpZGUtaXNyYWVsLzAwMDAwMTkwLTljZjktZDQxYy1hYmZjLWRlZmQ1ZGU0MDAwMNIBAA",
+          "author": null,
+          "description": "The Scariest Lesson From Hezbollah's Footage Deep Inside Israel  Haaretz\nIsraeli parents killed as Hezbollah rocket hits their car in Golan Heights  The Times of Israel\nHezbollah Launches Retaliatory Rockets After Israel Appears to Strike in Syria  The New York Times\n20,000 dunams of KKL-JNF forests in Israel destroyed by Hezbollah attacks  The Jerusalem Post\nIsraeli military says it hit Hezbollah site in central Lebanon  Al Jazeera English",
+          "link": "https://news.google.com/rss/articles/CBMixQFodHRwczovL3d3dy5oYWFyZXR6LmNvbS9pc3JhZWwtbmV3cy9zZWN1cml0eS1hdmlhdGlvbi8yMDI0LTA3LTEwL3R5LWFydGljbGUvdXAtdG8tZGF0ZS1hZXJpYWwtaW50ZWwtdGhlLXNjYXJpZXN0LWxlc3Nvbi1mcm9tLWhlemJvbGxhaHMtZm9vdGFnZS1vZi1pbnNpZGUtaXNyYWVsLzAwMDAwMTkwLTljZjktZDQxYy1hYmZjLWRlZmQ1ZGU0MDAwMNIBAA?oc=5",
+          "publishedOn": "2024-07-10T16:35:00.000Z",
+          "wordCount": 8876,
+          "title": "The Scariest Lesson From Hezbollah's Footage Deep Inside Israel - Haaretz",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -313,6 +933,16 @@
           "publishedOn": "2024-07-10T08:59:41.000Z",
           "wordCount": 8862,
           "title": "Putin Set Up Terminator-Style Skynet AI Network to Attack the U.S. - The Daily Beast",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiamh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvcnVzc2lhbi1jb3VydC1vcmRlcnMtYXJyZXN0LW9wcG9zaXRpb24tbGVhZGVyLW5hdmFsbnlzLXdpZG93LXJjbmExNjEwNjfSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTYxMDY3",
+          "author": null,
+          "description": "Russian court orders arrest of opposition leader Alexei Navalny's widow  NBC News\nRussian Court Orders Arrest of Navalny’s Widow, Yulia Navalnaya  The New York Times\nRussia Issues Arrest Warrant for Alexei Navalny’s Widow, Yulia Navalnaya  The Wall Street Journal\nRussia orders arrest of Yulia Navalnaya, widow of Putin’s nemesis  The Washington Post\nRussia Adds Yulia Navalnaya to ‘Terrorists and Extremists’ Blacklist  Kyiv Post",
+          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvcnVzc2lhbi1jb3VydC1vcmRlcnMtYXJyZXN0LW9wcG9zaXRpb24tbGVhZGVyLW5hdmFsbnlzLXdpZG93LXJjbmExNjEwNjfSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTYxMDY3?oc=5",
+          "publishedOn": "2024-07-10T08:52:08.000Z",
+          "wordCount": 8876,
+          "title": "Russian court orders arrest of opposition leader Alexei Navalny's widow - NBC News",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
