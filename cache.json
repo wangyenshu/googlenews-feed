@@ -6,6 +6,466 @@
       "siteUrl": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en&detail=-1&limit=10&showtitle=false&type=html",
       "articles": [
         {
+          "id": "CBMibGh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvZW1tYW51YWwtbWFjcm9uLWZyYW5jZS1uZnAtcHJlc2lkZW50LWV1cm9wZS1wYXJpcy1nb3Zlcm5tZW50LXNuYXAtZWxlY3Rpb25zL9IBAA",
+          "author": null,
+          "description": "Macron slaps back at left’s bid to govern France  POLITICO Europe\nMacron Rejects French Left’s Pick for Prime Minister  The New York Times\nCentrist government to remain in power until after Paris Olympics, says Macron  The Guardian\nMacron accepts French PM’s resignation, with no clear successor in sight  CNN\nMacron to keep French caretaker government until after Olympics  Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvZW1tYW51YWwtbWFjcm9uLWZyYW5jZS1uZnAtcHJlc2lkZW50LWV1cm9wZS1wYXJpcy1nb3Zlcm5tZW50LXNuYXAtZWxlY3Rpb25zL9IBAA?oc=5",
+          "publishedOn": "2024-07-23T22:10:37.000Z",
+          "wordCount": 8987,
+          "title": "Macron slaps back at left’s bid to govern France - POLITICO Europe",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiigFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RhdmlkYXhlLzIwMjQvMDcvMjMvY29uZnVzZWQtdWtyYWluaWFuLXRyb29wcy1qYW0tdGhlaXItb3duLWRyb25lcy1hcy1ydXNzaWFuLWZvcmNlcy1hZHZhbmNlLXRvd2FyZC1wb2tyb3Zzay_SAQA",
+          "author": null,
+          "description": "Confused Ukrainian Troops Jam Their Own Drones—And Russian Forces Advance Toward Pokrovsk  Forbes\nRussia-Ukraine war: List of key events, day 879  Al Jazeera English\nRussian forces push toward critical Ukrainian logistics hub of Pokrovsk  Fox News\nCommander-in-Chief Syrskyi reveals how to stop Russians outnumbering Ukrainian forces  Ukrainska Pravda\nRussia gathering forces in Kharkiv Oblast for fresh attacks, military says  Kyiv Independent",
+          "link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RhdmlkYXhlLzIwMjQvMDcvMjMvY29uZnVzZWQtdWtyYWluaWFuLXRyb29wcy1qYW0tdGhlaXItb3duLWRyb25lcy1hcy1ydXNzaWFuLWZvcmNlcy1hZHZhbmNlLXRvd2FyZC1wb2tyb3Zzay_SAQA?oc=5",
+          "publishedOn": "2024-07-23T20:57:04.000Z",
+          "wordCount": 8987,
+          "title": "Confused Ukrainian Troops Jam Their Own Drones—And Russian Forces Advance Toward Pokrovsk - Forbes",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Vudmlyb25tZW50L2RlYXRoLXRvbGwtZXRoaW9waWFuLWxhbmRzbGlkZXMtcmlzZXMtMTU3LW9mZmljaWFsLXNheXMtMjAyNC0wNy0yMy_SAQA",
+          "author": null,
+          "description": "Death toll from Ethiopian landslides jumps to 229, official says  Reuters\nAt least 229 people dead in Ethiopia after heavy rain causes mudslides  The Guardian\nAt least 229 people killed in Ethiopia landslides  Al Jazeera English\nTorrential rain sparks mudslides in Ethiopia, killing almost 160 people  CBS News",
+          "link": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Vudmlyb25tZW50L2RlYXRoLXRvbGwtZXRoaW9waWFuLWxhbmRzbGlkZXMtcmlzZXMtMTU3LW9mZmljaWFsLXNheXMtMjAyNC0wNy0yMy_SAQA?oc=5",
+          "publishedOn": "2024-07-23T20:51:08.000Z",
+          "wordCount": 8987,
+          "title": "Death toll from Ethiopian landslides jumps to 229, official says - Reuters",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMy9ldXJvcGUvcnVzc2lhbi1hbGxlZ2VkLW9seW1waWMtcGxvdC1wYXJpcy1pbnRsLWxhdGFtL2luZGV4Lmh0bWzSAVdodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzIzL2V1cm9wZS9ydXNzaWFuLWFsbGVnZWQtb2x5bXBpYy1wbG90LXBhcmlzLWludGwtbGF0YW0",
+          "author": null,
+          "description": "Russian detained in Paris over fears of Olympic ‘destabilization’ plans  CNN\nRussian arrested over alleged plot to 'destabilise' Paris Olympics  BBC.com\nFrench police arrest man who planned attack during Olympics, says security source  Reuters\nA French alleged neo-Nazi sympathizer, suspected of targeting Olympic torch, sentenced to 2 years  The Associated Press",
+          "link": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMy9ldXJvcGUvcnVzc2lhbi1hbGxlZ2VkLW9seW1waWMtcGxvdC1wYXJpcy1pbnRsLWxhdGFtL2luZGV4Lmh0bWzSAVdodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzIzL2V1cm9wZS9ydXNzaWFuLWFsbGVnZWQtb2x5bXBpYy1wbG90LXBhcmlzLWludGwtbGF0YW0?oc=5",
+          "publishedOn": "2024-07-23T20:38:00.000Z",
+          "wordCount": 8987,
+          "title": "Russian detained in Paris over fears of Olympic ‘destabilization’ plans - CNN",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy92aWRlb3MvY2o3ZDhwa3lwNGRv0gEA",
+          "author": null,
+          "description": "Wildfires rage in Pacific Northwest US and western Canada  BBC.com\nVarcoe: Jasper businesses work through the night as wildfire forces evacuation of town  Calgary Herald\nFamed national park evacuated in Canada as fires threaten the area  CNN\nCanada Issues Evacuation Order for Jasper National Park as Wildfires Burn in Alberta  The New York Times\nWildfires send about 25,000 fleeing from Canadian Rockies’ largest national park and nearby town  The Seattle Times",
+          "link": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy92aWRlb3MvY2o3ZDhwa3lwNGRv0gEA?oc=5",
+          "publishedOn": "2024-07-23T20:19:52.000Z",
+          "wordCount": 8987,
+          "title": "Wildfires rage in Pacific Northwest US and western Canada - BBC.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiYGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2lzcmFlbC1oYW1hcy13YXItbGF0ZXN0LTIzLWp1bHktMjAyNC1jMzEyOWFjOGI3N2Y3MzFlMDA1MzhlNTY1OWUxMDdkMNIBAA",
+          "author": null,
+          "description": "Israel-Hamas war latest: Netanyahu signals cease-fire deal could be shaping up as deaths top 39,000  The Associated Press\nOptimism increases about prospects for a Gaza ceasefire deal, but families of hostages remain concerned ahead of Netanyahu’s address to Congress  CNN\nMeeting hostage families in US, Netanyahu says conditions for deal ‘ripening’  The Times of Israel\nFamilies of Israeli Captives Arrive in U.S. to Protest Against Netanyahu, for Hostage Deal  Haaretz\nGaza release deal has to happen now, hostage's mother says  BBC.com",
+          "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2lzcmFlbC1oYW1hcy13YXItbGF0ZXN0LTIzLWp1bHktMjAyNC1jMzEyOWFjOGI3N2Y3MzFlMDA1MzhlNTY1OWUxMDdkMNIBAA?oc=5",
+          "publishedOn": "2024-07-23T20:06:00.000Z",
+          "wordCount": 8987,
+          "title": "Israel-Hamas war latest: Netanyahu signals cease-fire deal could be shaping up as deaths top 39,000 - The Associated Press",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMieGh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvcG9sYW5kLXByaW1lLW1pbmlzdGVyLWRvbmFsZC10dXNrLXdhbGRlbWFyLXNsdWdvY2tpLWZpcmVkLWFib3J0aW9uLWxhd3MtY2l2aWMtY29hbGl0aW9uL9IBAA",
+          "author": null,
+          "description": "Poland’s Tusk sacks no-show MPs after abortion bill defeat  POLITICO Europe\nPolish Leader Faces Protest Over Failure to Soften Abortion Law  Bloomberg\nTusk government faces first crisis after abortion and court setbacks [Opinion]  Notes From Poland\n'So unjust': Polish lawyers offer legal aid amid abortion help ban  Northwest Georgia News",
+          "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvcG9sYW5kLXByaW1lLW1pbmlzdGVyLWRvbmFsZC10dXNrLXdhbGRlbWFyLXNsdWdvY2tpLWZpcmVkLWFib3J0aW9uLWxhd3MtY2l2aWMtY29hbGl0aW9uL9IBAA?oc=5",
+          "publishedOn": "2024-07-23T19:43:00.000Z",
+          "wordCount": 8987,
+          "title": "Poland’s Tusk sacks no-show MPs after abortion bill defeat - POLITICO Europe",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicmh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2hvdXRoaXMtdGhyZWF0ZW4tdG8tYXR0YWNrLWlzcmFlbGktcG9ydHMtZ2FzLWZpZWxkcy1hZnRlci13ZWVrZW5kLXN0cmlrZS1vbi1ob2RlaWRhL9IBdmh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2hvdXRoaXMtdGhyZWF0ZW4tdG8tYXR0YWNrLWlzcmFlbGktcG9ydHMtZ2FzLWZpZWxkcy1hZnRlci13ZWVrZW5kLXN0cmlrZS1vbi1ob2RlaWRhL2FtcC8",
+          "author": null,
+          "description": "Houthis threaten to attack Israeli ports, gas fields after weekend strike on Hodeida  The Times of Israel\n'Highest price ever for killing one person': Houthis celebrate strike as Yemenis suffer  The Jerusalem Post\nYemen's Houthi rebels vow open battle with Israel and the U.S., as fears rise of Mideast war  Yahoo! Voices\nRed Sea tensions reach new high as US weighs terrorist designation for Houthis  ABC News\nIsrael’s Yemen attack against Houthis warning to nuclear Iran  Al-Monitor",
+          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2hvdXRoaXMtdGhyZWF0ZW4tdG8tYXR0YWNrLWlzcmFlbGktcG9ydHMtZ2FzLWZpZWxkcy1hZnRlci13ZWVrZW5kLXN0cmlrZS1vbi1ob2RlaWRhL9IBdmh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2hvdXRoaXMtdGhyZWF0ZW4tdG8tYXR0YWNrLWlzcmFlbGktcG9ydHMtZ2FzLWZpZWxkcy1hZnRlci13ZWVrZW5kLXN0cmlrZS1vbi1ob2RlaWRhL2FtcC8?oc=5",
+          "publishedOn": "2024-07-23T19:35:17.000Z",
+          "wordCount": 8987,
+          "title": "Houthis threaten to attack Israeli ports, gas fields after weekend strike on Hodeida - The Times of Israel",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMimAFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vZW52aXJvbm1lbnQvYXJ0aWNsZS8yMDI0L2p1bC8yMy9zdXBwb3J0ZXJzLW9mLWFycmVzdGVkLXNlYS1zaGVwaGVyZC1mb3VuZGVyLXNheS1wYXJhbGxlbHMtd2l0aC1qdWxpYW4tYXNzYW5nZS1hcmUtZGlzdHVyYmluZ9IBmAFodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vZW52aXJvbm1lbnQvYXJ0aWNsZS8yMDI0L2p1bC8yMy9zdXBwb3J0ZXJzLW9mLWFycmVzdGVkLXNlYS1zaGVwaGVyZC1mb3VuZGVyLXNheS1wYXJhbGxlbHMtd2l0aC1qdWxpYW4tYXNzYW5nZS1hcmUtZGlzdHVyYmluZw",
+          "author": null,
+          "description": "Supporters of arrested Sea Shepherd founder say parallels with Julian Assange are ‘disturbing’  The Guardian\nGreenland Police Arrest Sea Shepherd Founder Paul Watson  The Maritime Executive\nGreenland arrests anti-whaling activist and Greenpeace co-founder Paul Watson  FRANCE 24 English\nPaul Watson: Veteran anti-whaling activist arrested in Greenland  BBC.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vZW52aXJvbm1lbnQvYXJ0aWNsZS8yMDI0L2p1bC8yMy9zdXBwb3J0ZXJzLW9mLWFycmVzdGVkLXNlYS1zaGVwaGVyZC1mb3VuZGVyLXNheS1wYXJhbGxlbHMtd2l0aC1qdWxpYW4tYXNzYW5nZS1hcmUtZGlzdHVyYmluZ9IBmAFodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vZW52aXJvbm1lbnQvYXJ0aWNsZS8yMDI0L2p1bC8yMy9zdXBwb3J0ZXJzLW9mLWFycmVzdGVkLXNlYS1zaGVwaGVyZC1mb3VuZGVyLXNheS1wYXJhbGxlbHMtd2l0aC1qdWxpYW4tYXNzYW5nZS1hcmUtZGlzdHVyYmluZw?oc=5",
+          "publishedOn": "2024-07-23T19:18:00.000Z",
+          "wordCount": 8987,
+          "title": "Supporters of arrested Sea Shepherd founder say parallels with Julian Assange are ‘disturbing’ - The Guardian",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMngwOHJsN3ZueG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzJ4MDhybDd2bnhvLmFtcA",
+          "author": null,
+          "description": "Reality show contestant killed and ate protected bird in NZ  BBC.com\nUS reality TV show contestant kills and eats rare bird in New Zealand  The Independent\nU.S. Reality TV Star Eats Super-Rare Endangered Bird  The Daily Beast\nReality Show Contestant Apologizes After Eating Protected Bird in New Zealand  The New York Times\nReality TV contestant kills and eats protected New Zealand bird — claiming he was \"desperate and hungry\" (video)  Boing Boing",
+          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMngwOHJsN3ZueG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzJ4MDhybDd2bnhvLmFtcA?oc=5",
+          "publishedOn": "2024-07-23T18:58:26.000Z",
+          "wordCount": 8987,
+          "title": "Reality show contestant killed and ate protected bird in NZ - BBC.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2NoaW5hLXBhbGVzdGluaWFucy1oYW1hcy1mYXRhaC1kZWNsYXJhdGlvbi00YmVmMjYxNTMwN2I2NTZiOTljYjBlMThmNmI2ZDc5NtIBAA",
+          "author": null,
+          "description": "Rivals Hamas and Fatah sign a declaration to form a future government as war rages in Gaza  The Associated Press\nRival Palestinian Factions Project Unity, but Deep Divisions Remain  The New York Times\nHamas, Fatah sign unity agreement brokered by China  CBC News\nHamas and Fatah sign unity deal in Beijing aimed at Gaza governance  Al Jazeera English",
+          "link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2NoaW5hLXBhbGVzdGluaWFucy1oYW1hcy1mYXRhaC1kZWNsYXJhdGlvbi00YmVmMjYxNTMwN2I2NTZiOTljYjBlMThmNmI2ZDc5NtIBAA?oc=5",
+          "publishedOn": "2024-07-23T18:52:00.000Z",
+          "wordCount": 8987,
+          "title": "Rivals Hamas and Fatah sign a declaration to form a future government as war rages in Gaza - The Associated Press",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNzI5NTk4bjFkNG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzcyOTU5OG4xZDRvLmFtcA",
+          "author": null,
+          "description": "How top terror recruiter Anjem Choudary was brought to justice  BBC.com\nRadical UK Islamist preacher Choudary convicted of terrorism offenses  The Jerusalem Post\nCanadian convicted under U.K. terrorism act  CBC.ca\nRadical preacher who praised 9/11 and called for Pope's execution convicted on terror charges  NBC New York",
+          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNzI5NTk4bjFkNG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzcyOTU5OG4xZDRvLmFtcA?oc=5",
+          "publishedOn": "2024-07-23T18:29:15.000Z",
+          "wordCount": 8987,
+          "title": "How top terror recruiter Anjem Choudary was brought to justice - BBC.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMy91ay91ay1wb2xpY2UtdmlvbGVuY2Utd29tZW4tZ2lybHMtZXBpZGVtaWMtaW50bC9pbmRleC5odG1s0gFSaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8yMy91ay91ay1wb2xpY2UtdmlvbGVuY2Utd29tZW4tZ2lybHMtZXBpZGVtaWMtaW50bA",
+          "author": null,
+          "description": "Violence against women and girls at ‘epidemic’ levels, UK police say  CNN\nViolence against women at 'epidemic' levels and is a threat on par with terrorism, UK police warn  ABC News\nInfluencers radicalising boys in 'terrifying' way, say police  BBC.com\nViolence against women, girls at ‘epidemic’ levels: UK police  Al Jazeera English\nViolence against women a ‘national emergency’ in England and Wales, police say  The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMy91ay91ay1wb2xpY2UtdmlvbGVuY2Utd29tZW4tZ2lybHMtZXBpZGVtaWMtaW50bC9pbmRleC5odG1s0gFSaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8yMy91ay91ay1wb2xpY2UtdmlvbGVuY2Utd29tZW4tZ2lybHMtZXBpZGVtaWMtaW50bA?oc=5",
+          "publishedOn": "2024-07-23T18:20:00.000Z",
+          "wordCount": 8987,
+          "title": "Violence against women and girls at ‘epidemic’ levels, UK police say - CNN",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaGV6Ym9sbGFoLWhhcy10aGUtZmlyZXBvd2VyLXRvLWFtYnVzaC1pc3JhZWxpLXRhbmtzLWluLWxlYmFub24tMjAyNC030gFpaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS9oZXpib2xsYWgtaGFzLXRoZS1maXJlcG93ZXItdG8tYW1idXNoLWlzcmFlbGktdGFua3MtaW4tbGViYW5vbi0yMDI0LTc_YW1w",
+          "author": null,
+          "description": "Hezbollah has the firepower to ambush Israeli tanks in Lebanon  Business Insider\nIsrael’s Next War: The Mounting Pressure to Fight Hezbollah in Lebanon—and Why That Is So Dangerous  Foreign Affairs Magazine\nA Big Mideast War Is Unavoidable  Forbes\nWill Hezbollah and Israel Go to War?  The New Yorker\nIsrael Risks All-Out War With Hezbollah. A Truce in Gaza May Reduce That Threat.  The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaGV6Ym9sbGFoLWhhcy10aGUtZmlyZXBvd2VyLXRvLWFtYnVzaC1pc3JhZWxpLXRhbmtzLWluLWxlYmFub24tMjAyNC030gFpaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS9oZXpib2xsYWgtaGFzLXRoZS1maXJlcG93ZXItdG8tYW1idXNoLWlzcmFlbGktdGFua3MtaW4tbGViYW5vbi0yMDI0LTc_YW1w?oc=5",
+          "publishedOn": "2024-07-23T18:13:00.000Z",
+          "wordCount": 8987,
+          "title": "Hezbollah has the firepower to ambush Israeli tanks in Lebanon - Business Insider",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiZ2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMy9taWRkbGVlYXN0L2lzcmFlbC1nYXphLXdhci1raGFuLXlvdW5pcy1odW1hbml0YXJpYW4tem9uZS1pbnRsL2luZGV4Lmh0bWzSAWBodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzIzL21pZGRsZWVhc3QvaXNyYWVsLWdhemEtd2FyLWtoYW4teW91bmlzLWh1bWFuaXRhcmlhbi16b25lLWludGw",
+          "author": null,
+          "description": "Dozens killed and thousands flee as Israel shrinks ‘humanitarian zone’ in Gaza  CNN\nIsrael war on Gaza live: Israeli tanks force Palestinians into crowded camp  Al Jazeera English\nIDF reinvasion of Khan Yunis kills dozens of Hamas terrorists as Hezbollah escalations rise  The Jerusalem Post\nIsraeli Forces Strike in Humanitarian Zone; Scores Reported Killed  The New York Times\nIsrael orders evacuation of part of Gaza humanitarian zone as war's toll passes 39,000 Palestinians  ABC News",
+          "link": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMy9taWRkbGVlYXN0L2lzcmFlbC1nYXphLXdhci1raGFuLXlvdW5pcy1odW1hbml0YXJpYW4tem9uZS1pbnRsL2luZGV4Lmh0bWzSAWBodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzIzL21pZGRsZWVhc3QvaXNyYWVsLWdhemEtd2FyLWtoYW4teW91bmlzLWh1bWFuaXRhcmlhbi16b25lLWludGw?oc=5",
+          "publishedOn": "2024-07-23T18:00:00.000Z",
+          "wordCount": 8987,
+          "title": "Dozens killed and thousands flee as Israel shrinks ‘humanitarian zone’ in Gaza - CNN",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiswFodHRwczovL3d3dy5zdGF0ZS5nb3YvdGhlLXVuaXRlZC1zdGF0ZXMtaW52aXRlcy10aGUtc3VkYW5lc2UtYXJtZWQtZm9yY2VzLWFuZC10aGUtcmFwaWQtc3VwcG9ydC1mb3JjZXMtdG8tY2Vhc2VmaXJlLXRhbGtzLWNvLWhvc3RlZC1ieS10aGUta2luZ2RvbS1vZi1zYXVkaS1hcmFiaWEtYW5kLXN3aXR6ZXJsYW5kL9IBAA",
+          "author": null,
+          "description": "The United States Invites the Sudanese Armed Forces and the Rapid Support Forces to Ceasefire Talks Co-hosted by the Kingdom of Saudi Arabia and Switzerland  Department of State\nUS invites Sudan's warring parties for talks, RSF to participate  Reuters\nU.S. Works to Revamp Peace Process for War-Torn Sudan  Foreign Policy\nUS invites warring parties in Sudan to cease-fire talks  The Hill",
+          "link": "https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5zdGF0ZS5nb3YvdGhlLXVuaXRlZC1zdGF0ZXMtaW52aXRlcy10aGUtc3VkYW5lc2UtYXJtZWQtZm9yY2VzLWFuZC10aGUtcmFwaWQtc3VwcG9ydC1mb3JjZXMtdG8tY2Vhc2VmaXJlLXRhbGtzLWNvLWhvc3RlZC1ieS10aGUta2luZ2RvbS1vZi1zYXVkaS1hcmFiaWEtYW5kLXN3aXR6ZXJsYW5kL9IBAA?oc=5",
+          "publishedOn": "2024-07-23T17:48:41.000Z",
+          "wordCount": 8987,
+          "title": "The United States Invites the Sudanese Armed Forces and the Rapid Support Forces to Ceasefire Talks Co-hosted by the Kingdom of Saudi Arabia and Switzerland - Department of State",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvbWFuc2xhdWdodGVyLWFjY3VzYXRpb25zLXNoaXB3cmVjay1vZmYtaXRhbHktbWlncmFudHMta2lsbGVkL9IBXmh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL21hbnNsYXVnaHRlci1hY2N1c2F0aW9ucy1zaGlwd3JlY2stb2ZmLWl0YWx5LW1pZ3JhbnRzLWtpbGxlZC8",
+          "author": null,
+          "description": "Coastguard members, police officers accused of manslaughter over \"voyage of death\" that killed 94 migrants off Italy's coast  CBS News\nItalian government angered by legal probe into migrant shipwreck  Reuters\nPiantedosi certain officials will be cleared over Cutro  Agenzia ANSA\nRussia and Iran finish preparing comprehensive cooperation agreement, TASS reports  Arab News\nSix Italian officials charged after migrant boat deaths  Yahoo! Voices",
+          "link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvbWFuc2xhdWdodGVyLWFjY3VzYXRpb25zLXNoaXB3cmVjay1vZmYtaXRhbHktbWlncmFudHMta2lsbGVkL9IBXmh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL21hbnNsYXVnaHRlci1hY2N1c2F0aW9ucy1zaGlwd3JlY2stb2ZmLWl0YWx5LW1pZ3JhbnRzLWtpbGxlZC8?oc=5",
+          "publishedOn": "2024-07-23T16:32:37.000Z",
+          "wordCount": 8987,
+          "title": "Coastguard members, police officers accused of manslaughter over \"voyage of death\" that killed 94 migrants off Italy's coast - CBS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvY29tbW9kaXRpZXMvaHVuZ2FyeS1ibG9jay1ldS1tb25leS1tZW1iZXItc3RhdGVzLXVudGlsLWt5aXYtYWxsb3dzLWx1a29pbC10cmFuc2l0LTIwMjQtMDctMjMv0gEA",
+          "author": null,
+          "description": "Hungary to block EU funds for member states until Ukraine allows Lukoil transit  ReutersView Full Coverage on Google News",
+          "link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvY29tbW9kaXRpZXMvaHVuZ2FyeS1ibG9jay1ldS1tb25leS1tZW1iZXItc3RhdGVzLXVudGlsLWt5aXYtYWxsb3dzLWx1a29pbC10cmFuc2l0LTIwMjQtMDctMjMv0gEA?oc=5",
+          "publishedOn": "2024-07-23T16:30:00.000Z",
+          "wordCount": 8987,
+          "title": "Hungary to block EU funds for member states until Ukraine allows Lukoil transit - Reuters",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiVWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMy9zY2llbmNlL2NvY2FpbmUtc2hhcmtzLWJyYXppbC1zY2xpLWludGwtc2NuL2luZGV4Lmh0bWzSAQA",
+          "author": null,
+          "description": "Sharks in Brazil test positive for cocaine, say scientists  CNN\nSharks Swimming in Waters Near Brazil Test Positive for Cocaine, Study Finds  PEOPLE\n'Cocaine sharks' in Brazil expose ocean pollution  National Geographic\nSharks test positive for cocaine off Brazil's coast  Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMy9zY2llbmNlL2NvY2FpbmUtc2hhcmtzLWJyYXppbC1zY2xpLWludGwtc2NuL2luZGV4Lmh0bWzSAQA?oc=5",
+          "publishedOn": "2024-07-23T16:06:00.000Z",
+          "wordCount": 8987,
+          "title": "Sharks in Brazil test positive for cocaine, say scientists - CNN",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3dvcmxkL3NlY3JldC1tZWV0aW5nLWJldHdlZW4tdXMtaXNyYWVsLXVhZS1kaXNjdXNzLXBvc3R3YXItcGxhbnMtZ2F6YdIBYWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3dvcmxkL3NlY3JldC1tZWV0aW5nLWJldHdlZW4tdXMtaXNyYWVsLXVhZS1kaXNjdXNzLXBvc3R3YXItcGxhbnMtZ2F6YS5hbXA",
+          "author": null,
+          "description": "Secret meeting between US, Israel, UAE held to discuss postwar plans for Gaza  Fox News\nScoop: U.S., Israel and UAE held a secret meeting on Gaza war \"day after\" plan  Axios\nOpinion | The UAE tries to pull off an ‘Abraham Redux’ in Gaza  The Washington Post\nUAE: A temporary international mission is needed in Gaza  Financial Times\nIsrael, US, UAE said to have held secret Abu Dhabi meeting on Gaza postwar plan  The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3dvcmxkL3NlY3JldC1tZWV0aW5nLWJldHdlZW4tdXMtaXNyYWVsLXVhZS1kaXNjdXNzLXBvc3R3YXItcGxhbnMtZ2F6YdIBYWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3dvcmxkL3NlY3JldC1tZWV0aW5nLWJldHdlZW4tdXMtaXNyYWVsLXVhZS1kaXNjdXNzLXBvc3R3YXItcGxhbnMtZ2F6YS5hbXA?oc=5",
+          "publishedOn": "2024-07-23T16:02:00.000Z",
+          "wordCount": 8987,
+          "title": "Secret meeting between US, Israel, UAE held to discuss postwar plans for Gaza - Fox News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdjJnMHBwMnBqMW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3YyZzBwcDJwajFvLmFtcA",
+          "author": null,
+          "description": "Naples walkway collapse kills two on infamous Italian estate  BBC.com\nTwo killed as walkway collapses at Italy’s notorious ‘Gomorrah’ slum  CNN\nTwo die and 13 injured in walkway collapse at Naples ‘Gomorrah’ housing complex  The Guardian\nWalkway collapses in massive housing project in southern Italy, killing 2 and injuring a dozen  The Associated Press\nTwo dead and 13 injured as walkway collapses in Naples  Euronews",
+          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdjJnMHBwMnBqMW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3YyZzBwcDJwajFvLmFtcA?oc=5",
+          "publishedOn": "2024-07-23T16:00:21.000Z",
+          "wordCount": 8987,
+          "title": "Naples walkway collapse kills two on infamous Italian estate - BBC.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS91a3JhaW5lLXJ1c3NpYS1wb2xsLXdhci1wZWFjZS1jZWRlLXRlcnJpdG9yeS0xOTI5MDY50gEA",
+          "author": null,
+          "description": "Ukrainian Support for Ceding Territory Surges  Newsweek\nPoll says 32% of Ukrainians open to territorial concessions for quick peace  Yahoo! Voices\nUkrainians say it's time for peace negotiations with Russia  DW (English)\nSociologists ask which of three options for ending war suits Ukrainians most  Ukrainska Pravda\n55% of Ukrainians oppose territorial concessions to achieve peace, poll finds.  Kyiv Independent",
+          "link": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS91a3JhaW5lLXJ1c3NpYS1wb2xsLXdhci1wZWFjZS1jZWRlLXRlcnJpdG9yeS0xOTI5MDY50gEA?oc=5",
+          "publishedOn": "2024-07-23T15:23:41.000Z",
+          "wordCount": 8987,
+          "title": "Ukrainian Support for Ceding Territory Surges - Newsweek",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvYnJldHQtY2xpYmJlcnktc2FyYWgtcGFja3dvb2QtZGVhZC1jb3VwbGUtbGlmZS1yYWZ0LWNhbmFkYS1wb2xpY2UtaW52ZXN0aWdhdGlvbi_SAXFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9icmV0dC1jbGliYmVyeS1zYXJhaC1wYWNrd29vZC1kZWFkLWNvdXBsZS1saWZlLXJhZnQtY2FuYWRhLXBvbGljZS1pbnZlc3RpZ2F0aW9uLw",
+          "author": null,
+          "description": "Dead couple washes ashore in life raft, prompting Canada police investigation  CBS News\nCouple found dead in lifeboat after failed Atlantic crossing  CNN\n'Quite a pair': Adventurous Salt Spring couple identified as boating victims found on Nova Scotia island  Vancouver Sun\nCouple Who Attempted to Cross Atlantic Found Dead in Lifeboat  The New York Times\nCouple Found Dead in Lifeboat After Attempting to Cross the Atlantic  PEOPLE",
+          "link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvYnJldHQtY2xpYmJlcnktc2FyYWgtcGFja3dvb2QtZGVhZC1jb3VwbGUtbGlmZS1yYWZ0LWNhbmFkYS1wb2xpY2UtaW52ZXN0aWdhdGlvbi_SAXFodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9icmV0dC1jbGliYmVyeS1zYXJhaC1wYWNrd29vZC1kZWFkLWNvdXBsZS1saWZlLXJhZnQtY2FuYWRhLXBvbGljZS1pbnZlc3RpZ2F0aW9uLw?oc=5",
+          "publishedOn": "2024-07-23T14:43:31.000Z",
+          "wordCount": 8987,
+          "title": "Dead couple washes ashore in life raft, prompting Canada police investigation - CBS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jZ3JsZG44ZDY1d2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2dybGRuOGQ2NXdvLmFtcA",
+          "author": null,
+          "description": "Ukrainian attack on ferry kills one in Russia's Port Kavkaz  BBC.com\nRussian Ferryboat Comes Under Attack from Ukraine Drones in Crimea Port  Newsweek\nUkrainian drone damages ferry in Russian port, one person dead, says regional governor  Reuters\nDrones Hit Train Ferry in Russia’s Krasnodar Krai  Kyiv Post\nUkraine's forces significantly damage Russia's Slavyanin ferry in port of Kavkaz – map, photo  Ukrainska Pravda",
+          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jZ3JsZG44ZDY1d2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2dybGRuOGQ2NXdvLmFtcA?oc=5",
+          "publishedOn": "2024-07-23T14:37:11.000Z",
+          "wordCount": 8987,
+          "title": "Ukrainian attack on ferry kills one in Russia's Port Kavkaz - BBC.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiaGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc3V6YW5uZXJvd2Fua2VsbGVoZXIvMjAyNC8wNy8yMy91cy1uby04LXdvcmxkLW1vc3QtcG93ZXJmdWwtcGFzc3BvcnQtaW5kZXgv0gEA",
+          "author": null,
+          "description": "U.S. Falls Back To No. 8 In World’s Most Powerful Passport Index  Forbes\nThe world’s most powerful passports for 2024 so far  CNN\nSingapore Recrowned Most Powerful Passport in the World  Henley & Partners\nThese are the world's most powerful passports in 2024. See where Australia sits  ABC News\nHow did the Singapore passport become more powerful than the US passport?  The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc3V6YW5uZXJvd2Fua2VsbGVoZXIvMjAyNC8wNy8yMy91cy1uby04LXdvcmxkLW1vc3QtcG93ZXJmdWwtcGFzc3BvcnQtaW5kZXgv0gEA?oc=5",
+          "publishedOn": "2024-07-23T14:19:02.000Z",
+          "wordCount": 8987,
+          "title": "U.S. Falls Back To No. 8 In World’s Most Powerful Passport Index - Forbes",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jZ3I1NDJsNzUzcG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2dyNTQybDc1M3BvLmFtcA",
+          "author": null,
+          "description": "Hungary stripped of EU meeting over Ukraine stance  BBC.com\nHungarian PM Viktor Orbán shunned by EU over ties to Putin  Business Insider\nBorrell accuses Orbán of disloyalty and joins boycott against Hungary's EU presidency  Euronews\nHungary told it can't host EU gathering after the latest clash with Putin ally over Ukraine  CNBC\nHungary’s rift with the EU: Losing host privileges amid Ukraine controversy  GZERO Media",
+          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jZ3I1NDJsNzUzcG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2dyNTQybDc1M3BvLmFtcA?oc=5",
+          "publishedOn": "2024-07-23T14:16:32.000Z",
+          "wordCount": 8987,
+          "title": "Hungary stripped of EU meeting over Ukraine stance - BBC.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiI2h0dHBzOi8vd3d3Lmt5aXZwb3N0LmNvbS9wb3N0LzM2MjU30gEA",
+          "author": null,
+          "description": "Ukraine Military Boss: Russian Drones Flying Untargeted Due to ‘Total Shortage’ of MANPADS  Kyiv Post\nRussia’s war of aggression against Ukraine: Council renews economic sanctions for a further 6 months  Présidence française du Conseil de l'Union européenne 2022\nNew Updates for 16-Jul-2024  Akin Gump Strauss Hauer & Feld LLP\nEU Russia sanctions FAQs on “no re-export to Russia” clauses  Global Sanctions\nEU Council renews sanctions on Russia for 6 more months  Anadolu Agency | English",
+          "link": "https://news.google.com/rss/articles/CBMiI2h0dHBzOi8vd3d3Lmt5aXZwb3N0LmNvbS9wb3N0LzM2MjU30gEA?oc=5",
+          "publishedOn": "2024-07-23T13:53:43.000Z",
+          "wordCount": 8987,
+          "title": "Ukraine Military Boss: Russian Drones Flying Untargeted Due to ‘Total Shortage’ of MANPADS - Kyiv Post",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcmdyeGpuOXJrcG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3Jncnhqbjlya3BvLmFtcA",
+          "author": null,
+          "description": "Polio in Gaza: WHO 'extremely worried' about possible outbreak  BBC.com\n“The Prescription Is Ceasefire”: Israeli Public Health Leaders Sound Alarm over Polio in Gaza  Democracy Now!\nThe virus that causes polio has been found in Gaza. Here’s why that is grim news  Science",
+          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcmdyeGpuOXJrcG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3Jncnhqbjlya3BvLmFtcA?oc=5",
+          "publishedOn": "2024-07-23T13:16:58.000Z",
+          "wordCount": 8987,
+          "title": "Polio in Gaza: WHO 'extremely worried' about possible outbreak - BBC.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiXGh0dHBzOi8vd3d3LmR3LmNvbS9lbi91Z2FuZGEtcHJvdGVzdGVycy1yZWZ1c2UtdG8tYm93LXRvLXByZXNpZGVudC1wb2xpY2UtdGhyZWF0cy9hLTY5NzMyNDU20gEA",
+          "author": null,
+          "description": "Uganda protesters refuse to bow to official threats  DW (English)\nUganda’s President Museveni warns citizens they are ‘playing with fire’ over planned protests  CNN\nUgandan security forces detain dozens of young protesters, says rights group  Reuters\nUganda protests: Bobi Wine says police have besieged NUP headquarters  BBC.com\nUganda police detain dozens of people at anti-corruption protests  Al Jazeera English",
+          "link": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmR3LmNvbS9lbi91Z2FuZGEtcHJvdGVzdGVycy1yZWZ1c2UtdG8tYm93LXRvLXByZXNpZGVudC1wb2xpY2UtdGhyZWF0cy9hLTY5NzMyNDU20gEA?oc=5",
+          "publishedOn": "2024-07-23T12:51:44.000Z",
+          "wordCount": 8987,
+          "title": "Uganda protesters refuse to bow to official threats - DW (English)",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNzIwNTZyZzJ6cG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzcyMDU2cmcyenBvLmFtcA",
+          "author": null,
+          "description": "Bangladesh PM blames opposition for deadly unrest  BBC.com\nDrenched in blood - how Bangladesh protests turned deadly  BBC.com\nThe Deep Roots of Bangladesh’s Crisis  Foreign Policy\nAn Unbending Leader’s Crackdown Rains Carnage on Bangladesh  The New York Times\nBangladesh to restore internet services amid unrest; 173 dead, over 2,500 held so far: What is happening now?  Mint",
+          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNzIwNTZyZzJ6cG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzcyMDU2cmcyenBvLmFtcA?oc=5",
+          "publishedOn": "2024-07-23T12:44:18.000Z",
+          "wordCount": 8987,
+          "title": "Bangladesh PM blames opposition for deadly unrest - BBC.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA3LzIzL2NoaW5hLXBoaWxpcHBpbmVzLXNvdXRoLWNoaW5hLXNlYS1zaWVycmEtbWFkcmUv0gEA",
+          "author": null,
+          "description": "Why does China care about a rust bucket in the middle of the sea?  The Washington Post\nChina and the Philippines announce deal aimed at stopping clashes at fiercely disputed shoal  ABC News\nDeal or no deal? China and Philippines at odds over Second Thomas Shoal resupply agreement  South China Morning Post\nPhilippines \"cannot yield\" its South China Sea position, president says  Reuters\nMarcos says Philippines ‘cannot yield’ in South China Sea dispute  Al Jazeera English",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA3LzIzL2NoaW5hLXBoaWxpcHBpbmVzLXNvdXRoLWNoaW5hLXNlYS1zaWVycmEtbWFkcmUv0gEA?oc=5",
+          "publishedOn": "2024-07-23T12:00:58.000Z",
+          "wordCount": 8987,
+          "title": "Why does China care about a rust bucket in the middle of the sea? - The Washington Post",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiSGh0dHBzOi8vd3d3LmRlbW9jcmFjeW5vdy5vcmcvMjAyNC83LzIzL2thbWFsYV9oYXJyaXNfbGlseV9ncmVlbmJlcmdfY2FsbNIBAA",
+          "author": null,
+          "description": "Ex-Biden Staffer Who Quit over Gaza Says Kamala Harris Must “Chart a New Path” on Israel-Palestine  Democracy Now!\nThe 'Divine Nine': Leaders announce push for voter registration as Harris takes over  USA TODAY\nFalsehoods about Kamala Harris' citizenship status, racial identity resurface online as she becomes likely Democratic nominee  CBS News\nAP survey shows Kamala Harris backed by enough delegates to become Democratic nominee  The Associated Press",
+          "link": "https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vd3d3LmRlbW9jcmFjeW5vdy5vcmcvMjAyNC83LzIzL2thbWFsYV9oYXJyaXNfbGlseV9ncmVlbmJlcmdfY2FsbNIBAA?oc=5",
+          "publishedOn": "2024-07-23T12:00:00.000Z",
+          "wordCount": 8987,
+          "title": "Ex-Biden Staffer Who Quit over Gaza Says Kamala Harris Must “Chart a New Path” on Israel-Palestine - Democracy Now!",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibGh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS90cmF2ZWwvMjAyNC8wNy8yMy9tb3VudC1ldG5hLXZvbGNhbmljLWVydXB0aW9uLWNsb3Nlcy1jYXRhbmlhLWludGVybmF0aW9uYWwtYWlycG9ydNIBAA",
+          "author": null,
+          "description": "Catania airport closed: Flights cancelled or diverted due to Mt Etna  Euronews\nFlights resume at Italy's Catania after Etna ash disruption  Reuters\nItaly's Catania airport shuts down due to Etna's volcanic ash  Yahoo! Voices\nSicily travel alert: Eruption at Europe's largest active volcano in Italy, Mount Etna, forces closure of Catania airport  Hindustan Times\nMajor airport forced to close after Mount Etna volcanic eruption  The Independent",
+          "link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS90cmF2ZWwvMjAyNC8wNy8yMy9tb3VudC1ldG5hLXZvbGNhbmljLWVydXB0aW9uLWNsb3Nlcy1jYXRhbmlhLWludGVybmF0aW9uYWwtYWlycG9ydNIBAA?oc=5",
+          "publishedOn": "2024-07-23T11:31:26.000Z",
+          "wordCount": 8987,
+          "title": "Catania airport closed: Flights cancelled or diverted due to Mt Etna - Euronews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiamh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vdWstc2F5cy10ZXN0ZWQtbGFzZXItYmVhbS13ZWFwb24tbXVsdGlwbGUtdGFyZ2V0cy1uZXV0cmFsaXplLWRyb25lcy0yMDI0LTfSAW5odHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL3VrLXNheXMtdGVzdGVkLWxhc2VyLWJlYW0td2VhcG9uLW11bHRpcGxlLXRhcmdldHMtbmV1dHJhbGl6ZS1kcm9uZXMtMjAyNC03P2FtcA",
+          "author": null,
+          "description": "UK says it tested laser beam weapon, take down targets for $0.12 shot  Business Insider\nBritain tests Raytheon's anti-drone laser from military vehicle  Reuters\nAt 10P A Shot, British Army Tests “Ground Breaking’ Laser Weapon From Armored Vehicle For 1st Time  EurAsian Times\nRaytheon Anti-Drone Laser Achieves First UK Firings  Aviation Week\nNews | Raytheon's High-Energy Laser Weapon System fired from UK military vehicle for first time  Raytheon Technologies",
+          "link": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vdWstc2F5cy10ZXN0ZWQtbGFzZXItYmVhbS13ZWFwb24tbXVsdGlwbGUtdGFyZ2V0cy1uZXV0cmFsaXplLWRyb25lcy0yMDI0LTfSAW5odHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL3VrLXNheXMtdGVzdGVkLWxhc2VyLWJlYW0td2VhcG9uLW11bHRpcGxlLXRhcmdldHMtbmV1dHJhbGl6ZS1kcm9uZXMtMjAyNC03P2FtcA?oc=5",
+          "publishedOn": "2024-07-23T11:29:00.000Z",
+          "wordCount": 8987,
+          "title": "UK says it tested laser beam weapon, take down targets for $0.12 shot - Business Insider",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMib2h0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL3R1bGthcmVtLWNvbW1hbmRlcnMtb2YtaGFtYXMtYWwtYXFzYS1tYXJ0eXJzLWJyaWdhZGVzLWtpbGxlZC1pbi1pZGYtZHJvbmUtc3RyaWtlL9IBc2h0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL3R1bGthcmVtLWNvbW1hbmRlcnMtb2YtaGFtYXMtYWwtYXFzYS1tYXJ0eXJzLWJyaWdhZGVzLWtpbGxlZC1pbi1pZGYtZHJvbmUtc3RyaWtlL2FtcC8",
+          "author": null,
+          "description": "Tulkarem commanders of Hamas, al-Aqsa Martyrs’ Brigades killed in IDF drone strike  The Times of Israel\nWho is Israel targeting in its attacks on the West Bank?  Al Jazeera English\nIDF Confirms West Bank Airstrike Killed Major Hamas Commander, Other Terrorists  i24NEWS\nTwo Palestinian militant commanders killed in Tul Karm strike in West Bank, IDF confirms  Haaretz\nWATCH: Israeli forces eliminate Hamas commander, other terror leaders in Tulkarm, West Bank  The Jerusalem Post",
+          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL3R1bGthcmVtLWNvbW1hbmRlcnMtb2YtaGFtYXMtYWwtYXFzYS1tYXJ0eXJzLWJyaWdhZGVzLWtpbGxlZC1pbi1pZGYtZHJvbmUtc3RyaWtlL9IBc2h0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL3R1bGthcmVtLWNvbW1hbmRlcnMtb2YtaGFtYXMtYWwtYXFzYS1tYXJ0eXJzLWJyaWdhZGVzLWtpbGxlZC1pbi1pZGYtZHJvbmUtc3RyaWtlL2FtcC8?oc=5",
+          "publishedOn": "2024-07-23T11:18:24.000Z",
+          "wordCount": 8987,
+          "title": "Tulkarem commanders of Hamas, al-Aqsa Martyrs’ Brigades killed in IDF drone strike - The Times of Israel",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMibmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvY3J5c3RhbC1tZXRoLWxhYi1mb3VuZC1oaWRkZW4tcmVtb3RlLWZhcm0tc291dGgtYWZyaWNhLW1leGljYW4tc3VzcGVjdHMtYXJyZXN0ZWQv0gFyaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvY3J5c3RhbC1tZXRoLWxhYi1mb3VuZC1oaWRkZW4tcmVtb3RlLWZhcm0tc291dGgtYWZyaWNhLW1leGljYW4tc3VzcGVjdHMtYXJyZXN0ZWQv",
+          "author": null,
+          "description": "Multimillion-dollar crystal meth lab found hidden in remote South Africa farm; Mexican suspects arrested  CBS News\nMultimillion-dollar crystal meth lab found hidden in remote farm  Yahoo! Voices\nMexicans arrested in South African meth lab raid on Groblersdal farm  BBC.com\nFour arrested in multimillion-dollar meth lab bust in South Africa  Al Jazeera English\nSouth African police discover multimillion-dollar meth lab on farm  CNN",
+          "link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvY3J5c3RhbC1tZXRoLWxhYi1mb3VuZC1oaWRkZW4tcmVtb3RlLWZhcm0tc291dGgtYWZyaWNhLW1leGljYW4tc3VzcGVjdHMtYXJyZXN0ZWQv0gFyaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvY3J5c3RhbC1tZXRoLWxhYi1mb3VuZC1oaWRkZW4tcmVtb3RlLWZhcm0tc291dGgtYWZyaWNhLW1leGljYW4tc3VzcGVjdHMtYXJyZXN0ZWQv?oc=5",
+          "publishedOn": "2024-07-23T11:03:00.000Z",
+          "wordCount": 8987,
+          "title": "Multimillion-dollar crystal meth lab found hidden in remote South Africa farm; Mexican suspects arrested - CBS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMicmh0dHBzOi8vd3d3LnRoZW1vc2Nvd3RpbWVzLmNvbS8yMDI0LzA3LzIzL3J1c3NpYW4tYXJteS1zYXlzLWtpbGxlZC01MC13ZXN0ZXJuLWluc3RydWN0b3JzLWluLW1pc3NpbGUtYXR0YWNrLWE4NTc5NNIBAA",
+          "author": null,
+          "description": "Russian Army Says Killed 50 ‘Western Instructors’ in Missile Attack  The Moscow TimesView Full Coverage on Google News",
+          "link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnRoZW1vc2Nvd3RpbWVzLmNvbS8yMDI0LzA3LzIzL3J1c3NpYW4tYXJteS1zYXlzLWtpbGxlZC01MC13ZXN0ZXJuLWluc3RydWN0b3JzLWluLW1pc3NpbGUtYXR0YWNrLWE4NTc5NNIBAA?oc=5",
+          "publishedOn": "2024-07-23T09:11:36.000Z",
+          "wordCount": 8987,
+          "title": "Russian Army Says Killed 50 ‘Western Instructors’ in Missile Attack - The Moscow Times",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2NhOTM0OWVjLTFjZDktNDk4NS1hYTFmLTRlOTY2MDVmNDZlN9IBAA",
+          "author": null,
+          "description": "India unveils spending binge to boost Narendra Modi’s allies  Financial Times\nBudget 2024: Six takeaways from India PM Modi's new spending plan  BBC.com\nIndia cuts import tax on smartphones in boost for Apple  Reuters India\nModi's government pledges fiscal prudence in India's post-election budget  CNBC\nIndia's Modi sets aside billions for jobs, allies in post-election budget  Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2NhOTM0OWVjLTFjZDktNDk4NS1hYTFmLTRlOTY2MDVmNDZlN9IBAA?oc=5",
+          "publishedOn": "2024-07-23T08:40:23.000Z",
+          "wordCount": 8987,
+          "title": "India unveils spending binge to boost Narendra Modi’s allies - Financial Times",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTmh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wNy8yMy9pbmRpYS1zY3JhcHMtYW5nZWwtdGF4LWluLWJvb3N0LXRvLXN0YXJ0dXBzL9IBAA",
+          "author": null,
+          "description": "India scraps ‘angel tax’ in boost for startups  TechCrunch\nBudget speech 2024 date, time: When will FM Nirmala Sitharaman present Union Budget 2024? Check when, whe  The Times of India\nUnion Budget 2024: Angel Tax For All Classes Of Investors To Be Abolished  NDTV\nBudget 2024: FM Sitharaman proposes to abolish angel tax for all investor class  The Economic Times\nBudget 2024: Heres What Technology Leaders Have To Say  NDTV Profit",
+          "link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wNy8yMy9pbmRpYS1zY3JhcHMtYW5nZWwtdGF4LWluLWJvb3N0LXRvLXN0YXJ0dXBzL9IBAA?oc=5",
+          "publishedOn": "2024-07-23T07:16:22.000Z",
+          "wordCount": 8987,
+          "title": "India scraps ‘angel tax’ in boost for startups - TechCrunch",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3ZlbmV6dWVsYS1lbGVjdGlvbi1taWxpdGFyeS1sb3lhbHR5LWRmZjQ1MmFjNTM4NThlZTM2ZjFmZTA5OWZiNGIxYzRk0gEA",
+          "author": null,
+          "description": "Maduro seeks to shore up Venezuela military's support ahead of vote threatening his hold on power  The Associated Press\nHow Venezuela’s election could upend the geopolitics of the Americas  CNN\nOpinion | This Is Venezuela’s Moment. It Needs the World’s Help.  The New York Times\nAs elections approach, the final psyop of the Venezuelan regime | Opinion  Miami Herald\nMaduro rival promises ‘government for all’ if he wins Venezuela election  The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3ZlbmV6dWVsYS1lbGVjdGlvbi1taWxpdGFyeS1sb3lhbHR5LWRmZjQ1MmFjNTM4NThlZTM2ZjFmZTA5OWZiNGIxYzRk0gEA?oc=5",
+          "publishedOn": "2024-07-23T07:05:00.000Z",
+          "wordCount": 8987,
+          "title": "Maduro seeks to shore up Venezuela military's support ahead of vote threatening his hold on power - The Associated Press",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMy9idXNpbmVzcy9jaGluYS1yZXRpcmVtZW50LWFnZS1iYWNrbGFzaC1pbnRsLWhuay9pbmRleC5odG1s0gFSaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8yMy9idXNpbmVzcy9jaGluYS1yZXRpcmVtZW50LWFnZS1iYWNrbGFzaC1pbnRsLWhuaw",
+          "author": null,
+          "description": "China’s leaders have floated the idea of raising the retirement age. It hasn’t gone down well  CNN\nChina to raise retirement age in next five years  BBC.com\nChina to allow delayed retirement to combat population woes  Reuters\nChina’s leaders say retirement age should rise in ‘voluntary and flexible’ way  South China Morning Post\nChina Wants to Raise Its Retirement Age. People Aren't Happy.  Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMy9idXNpbmVzcy9jaGluYS1yZXRpcmVtZW50LWFnZS1iYWNrbGFzaC1pbnRsLWhuay9pbmRleC5odG1s0gFSaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8yMy9idXNpbmVzcy9jaGluYS1yZXRpcmVtZW50LWFnZS1iYWNrbGFzaC1pbnRsLWhuaw?oc=5",
+          "publishedOn": "2024-07-23T06:55:00.000Z",
+          "wordCount": 8987,
+          "title": "China’s leaders have floated the idea of raising the retirement age. It hasn’t gone down well - CNN",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiX2h0dHBzOi8vd3d3LmdyZWF0YW5kaHJhLmNvbS9wb2xpdGljcy9hbmRocmEtbmV3cy9hbmRocmEtZ2V0cy1iaWctYm9uYW56YS1pbi11bmlvbi1idWRnZXQtMTM5Mzcz0gFXaHR0cHM6Ly9tb2JpLmdyZWF0YW5kaHJhLmNvbS9hcnRpY2xlL2FuZGhyYS1nZXRzLWJpZy1ib25hbnphLWluLXVuaW9uLWJ1ZGdldC8xMzkzNzMvYW1w",
+          "author": null,
+          "description": "Andhra gets big bonanza in Union budget..  Greatandhra\nAllies with benefits: Bonanza for Andhra Pradesh, Bihar  The Times of India\n\"Assuring Andhra We Are With Them\": Nirmala Sitharaman On Special Package  NDTV\n‘Special Status’ Out, ‘Special Funds’ In: How Modi Govt Bypassed Big Hurdle in Budget 2024 to Help Bihar, A  News18\nBudget 2024: The political lurks behind the fiscal in Sitharaman's budget  The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmdyZWF0YW5kaHJhLmNvbS9wb2xpdGljcy9hbmRocmEtbmV3cy9hbmRocmEtZ2V0cy1iaWctYm9uYW56YS1pbi11bmlvbi1idWRnZXQtMTM5Mzcz0gFXaHR0cHM6Ly9tb2JpLmdyZWF0YW5kaHJhLmNvbS9hcnRpY2xlL2FuZGhyYS1nZXRzLWJpZy1ib25hbnphLWluLXVuaW9uLWJ1ZGdldC8xMzkzNzMvYW1w?oc=5",
+          "publishedOn": "2024-07-23T06:34:00.000Z",
+          "wordCount": 8987,
+          "title": "Andhra gets big bonanza in Union budget.. - Greatandhra",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzJlNzhkZGRlLTBiMzItNDBjYS04ZGM0LTZiZWU3M2ExMTA5ZdIBAA",
+          "author": null,
+          "description": "China’s Xi Jinping bets on high tech for ‘great rejuvenation’  Financial Times\nChina’s New Playbook for Indebted Regions Is Remedy But No Cure  Bloomberg\nChina’s having its 2008 financial crisis at the worst possible time  The Hill\nChina’s Leaders Just Held a Third Plenum. So What?  Foreign Policy\nChina Shows Few Signs of Tilting Economy Toward Consumers in New Plan  The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzJlNzhkZGRlLTBiMzItNDBjYS04ZGM0LTZiZWU3M2ExMTA5ZdIBAA?oc=5",
+          "publishedOn": "2024-07-23T04:16:25.000Z",
+          "wordCount": 8987,
+          "title": "China’s Xi Jinping bets on high tech for ‘great rejuvenation’ - Financial Times",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiTGh0dHBzOi8vd3d3Lmhydy5vcmcvbmV3cy8yMDI0LzA3LzIzL2lzcmFlbC1kZXRhaW5lZXMtZmFjZS1pbmh1bWFuZS10cmVhdG1lbnTSAQA",
+          "author": null,
+          "description": "Israel: Detainees Face Inhumane Treatment  Human Rights Watch\nAmnesty Condemns Israel's 'Mass Incommunicado Detention and Torture' of Palestinians  Common Dreams\nIsrael must end mass incommunicado detention and torture of Palestinians from Gaza  Amnesty International\nAmnesty accuses Israel of illegally detaining, torturing Palestinians  Yahoo! Voices",
+          "link": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lmhydy5vcmcvbmV3cy8yMDI0LzA3LzIzL2lzcmFlbC1kZXRhaW5lZXMtZmFjZS1pbmh1bWFuZS10cmVhdG1lbnTSAQA?oc=5",
+          "publishedOn": "2024-07-23T04:00:00.000Z",
+          "wordCount": 8987,
+          "title": "Israel: Detainees Face Inhumane Treatment - Human Rights Watch",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMihAFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vd29ybGQvYXJ0aWNsZS8yMDI0L2p1bC8yMy9kb2N0b3JzLWluLWtoYW4teW91bmlzLW92ZXJ3aGVsbWVkLWFzLWNhc3VhbHRpZXMtb2YtbmV3LWlzcmFlbGktaW52YXNpb24tbW91bnTSAYQBaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkL2FydGljbGUvMjAyNC9qdWwvMjMvZG9jdG9ycy1pbi1raGFuLXlvdW5pcy1vdmVyd2hlbG1lZC1hcy1jYXN1YWx0aWVzLW9mLW5ldy1pc3JhZWxpLWludmFzaW9uLW1vdW50",
+          "author": null,
+          "description": "Doctors in Khan Younis overwhelmed as casualties of new Israeli invasion mount  The Guardian\nIsrael-Gaza updates: Poliovirus detected in wastewater across Gaza, WHO says  ABC News\nWar on Gaza: Palestinian healthcare workers are the true heroes  Middle East Eye\n‘Dripping in blood’: MSF medic describes horrific aftermath of Israeli attack  Longview News-Journal",
+          "link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy50aGVndWFyZGlhbi5jb20vd29ybGQvYXJ0aWNsZS8yMDI0L2p1bC8yMy9kb2N0b3JzLWluLWtoYW4teW91bmlzLW92ZXJ3aGVsbWVkLWFzLWNhc3VhbHRpZXMtb2YtbmV3LWlzcmFlbGktaW52YXNpb24tbW91bnTSAYQBaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkL2FydGljbGUvMjAyNC9qdWwvMjMvZG9jdG9ycy1pbi1raGFuLXlvdW5pcy1vdmVyd2hlbG1lZC1hcy1jYXN1YWx0aWVzLW9mLW5ldy1pc3JhZWxpLWludmFzaW9uLW1vdW50?oc=5",
+          "publishedOn": "2024-07-23T00:59:15.000Z",
+          "wordCount": 8987,
+          "title": "Doctors in Khan Younis overwhelmed as casualties of new Israeli invasion mount - The Guardian",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jeGUyNGV5dnhuMm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3hlMjRleXZ4bjJvLmFtcA",
+          "author": null,
+          "description": "Kenya protests: People face police brutality after dozens killed  BBC.com\nKenya police fire tear gas to stop scuffles between pro and anti-government groups  Reuters\nAmerica’s Dilemma in Kenya  Foreign Affairs Magazine\nDemonstration Alert for U.S. Citizens in Kenya  USEmbassy.gov\nThursday briefing: How one controversial bill has Kenya on the brink of disorder  The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jeGUyNGV5dnhuMm_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3hlMjRleXZ4bjJvLmFtcA?oc=5",
+          "publishedOn": "2024-07-22T23:55:38.000Z",
+          "wordCount": 8987,
+          "title": "Kenya protests: People face police brutality after dozens killed - BBC.com",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiWmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA3LzIyL2lzcmFlbC1nYXphLWhhbWFzLWh1bWFuaXRhcmlhbi1ldmFjdWF0aW9uL9IBAA",
           "author": null,
           "description": "Israel orders evacuation of former Gaza safe area; U.N. aid convoy fired on  The Washington Post\nIsrael war on Gaza live: Scores killed in new Israeli blitz on Khan Younis  Al Jazeera English\nIsrael Orders New Evacuation in Gaza as Aid Workers Say Bombing Kills Dozens  The New York Times\nIsrael sends tanks back into Khan Younis area, 70 killed after new evacuation order  Reuters\nIDF orders evacuation of part of Gaza safe zone, says Hamas deeply embedded in area  The Times of Israel",
@@ -106,6 +566,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMicWh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvZXVyb3BlLzIwMjQvMDcvMjIvdWstbGVkLWZpZ2h0ZXItcHJvZ3JhbS1pcy1zdGlsbC1vcGVuLWlzaC10by1wYXlpbmctcGFydG5lcnMv0gEA",
+          "author": null,
+          "description": "UK-led fighter program is still open-ish to paying partners  Defense News\nNew design for next-gen UK-Italy-Japan fighter unveiled  Defense One\nAmerica's NATO Allies Push Ahead with 6th-Generation Fighter Jet Program  Newsweek\nGCAP partners showcase new concept for next-gen fighter jet based on ‘evolved design’  Breaking Defense\nContinuing with the Tempest ‘sixth-gen’ fighter jet would be insanity  The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvZXVyb3BlLzIwMjQvMDcvMjIvdWstbGVkLWZpZ2h0ZXItcHJvZ3JhbS1pcy1zdGlsbC1vcGVuLWlzaC10by1wYXlpbmctcGFydG5lcnMv0gEA?oc=5",
+          "publishedOn": "2024-07-22T19:47:34.000Z",
+          "wordCount": 8987,
+          "title": "UK-led fighter program is still open-ish to paying partners - Defense News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2h1bmdhcnktc2xvdmFraWEtYXNrLWV1cm9wZWFuLWNvbW1pc3Npb24tbWVkaWF0ZS13aXRoLXVrcmFpbmUtb3Zlci1sdWtvaWwtMjAyNC0wNy0yMi_SAQA",
           "author": null,
           "description": "Hungary and Slovakia ask EU to mediate with Ukraine over Lukoil  Reuters\nHungary demands EU action against Ukraine as Russian oil spat escalates  POLITICO Europe\nFico criticizes Kyiv's sanctions against Russian oil in call with Shmyhal  Kyiv Independent\nHungary, Slovakia Seek EU Consultation Procedure With Ukraine Over LUKoil Ban  Radio Free Europe / Radio Liberty\nHungary, Slovakia ask European Commission to mediate with Ukraine over Lukoil  Yahoo! Voices",
@@ -113,6 +583,16 @@
           "publishedOn": "2024-07-22T19:40:00.000Z",
           "wordCount": 8987,
           "title": "Hungary and Slovakia ask EU to mediate with Ukraine over Lukoil - Reuters",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMib2h0dHBzOi8vbW9uZG93ZWlzcy5uZXQvMjAyNC8wNy91LXMtbWVkaWEtZG93bnBsYXlzLWFuZC1pZ25vcmVzLWljai1ydWxpbmctZGVjbGFyaW5nLWlzcmFlbGktb2NjdXBhdGlvbi1pbGxlZ2FsL9IBAA",
+          "author": null,
+          "description": "‘NYTimes’ and other outlets downplay and even ignore the World Court’s finding that Israel’s ‘settlements’ violate international law  Mondoweiss\nThe ICJ Is Right: The Israeli Settlements Are an Illegal Affront  The New Republic\nTop UN court says Israel’s presence in occupied Palestinian territories is ‘illegal’ and should end as ‘rapidly as possible’  PBS NewsHour\nThe ICJ Ruling Confirms What Palestinians Have Been Saying for 57 Years  The Intercept",
+          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbW9uZG93ZWlzcy5uZXQvMjAyNC8wNy91LXMtbWVkaWEtZG93bnBsYXlzLWFuZC1pZ25vcmVzLWljai1ydWxpbmctZGVjbGFyaW5nLWlzcmFlbGktb2NjdXBhdGlvbi1pbGxlZ2FsL9IBAA?oc=5",
+          "publishedOn": "2024-07-22T19:30:00.000Z",
+          "wordCount": 8987,
+          "title": "‘NYTimes’ and other outlets downplay and even ignore the World Court’s finding that Israel’s ‘settlements’ violate international law - Mondoweiss",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -136,6 +616,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMic2h0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvd29ybGQvYnJhemlscy1sdWxhLWZyaWdodGVuZWQtYnktbWFkdXJvcy10YWxrLW9mLWEtYmxvb2RiYXRoLWFmdGVyLXZlbmV6dWVsYXMtZWxlY3Rpb27SAXdodHRwczovL3d3dy5wYnMub3JnL25ld3Nob3VyL2FtcC93b3JsZC9icmF6aWxzLWx1bGEtZnJpZ2h0ZW5lZC1ieS1tYWR1cm9zLXRhbGstb2YtYS1ibG9vZGJhdGgtYWZ0ZXItdmVuZXp1ZWxhcy1lbGVjdGlvbg",
+          "author": null,
+          "description": "Brazil’s Lula ‘frightened’ by Maduro’s talk of a bloodbath after Venezuela’s election  PBS NewsHour\nLula raises alarm over Maduro’s ‘bloodbath’ warning to Venezuela  The Guardian\nUS urges Venezuela to free opposition figures as Maduro says he must win reelection to avoid a ‘bloodbath’  CNN\nLula Says Maduro Needs to Learn How to Lose an Election  Bloomberg\nLula 'Scared' by Maduro Rhetoric, Urges Respect for Venezuela Election  U.S. News & World Report",
+          "link": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvd29ybGQvYnJhemlscy1sdWxhLWZyaWdodGVuZWQtYnktbWFkdXJvcy10YWxrLW9mLWEtYmxvb2RiYXRoLWFmdGVyLXZlbmV6dWVsYXMtZWxlY3Rpb27SAXdodHRwczovL3d3dy5wYnMub3JnL25ld3Nob3VyL2FtcC93b3JsZC9icmF6aWxzLWx1bGEtZnJpZ2h0ZW5lZC1ieS1tYWR1cm9zLXRhbGstb2YtYS1ibG9vZGJhdGgtYWZ0ZXItdmVuZXp1ZWxhcy1lbGVjdGlvbg?oc=5",
+          "publishedOn": "2024-07-22T18:34:48.000Z",
+          "wordCount": 8987,
+          "title": "Brazil’s Lula ‘frightened’ by Maduro’s talk of a bloodbath after Venezuela’s election - PBS NewsHour",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiYWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2Nyb2F0aWEta2lsbGluZ3MtZWxkZXJseS1ob21lLWRhcnV2YXItZTNlMjE1OWM4YWM4MWE1MWE4NDk0YjcwZWM4MTllMzjSAQA",
           "author": null,
           "description": "A gunman has killed 6 people including his mother at a nursing home in Croatia, officials say  The Associated Press\nGunman Enters Elder Care Home, Kills Mother and 5 Other People: Reports  PEOPLE\nGunman arrested after killing at least six people in nursing home in Croatia  The Guardian\nGunman Kills at Least 6 at Nursing Home in Croatia  The New York Times\nCroatia: Several dead in nursing home attack  DW (English)",
@@ -146,6 +636,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiMmh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9icmVha2luZy1uZXdzL2FydGljbGUtODExNDQ00gEA",
+          "author": null,
+          "description": "Israel Air Force strikes Hezbollah infrastructure following alerts in the North  The Jerusalem Post\nHezbollah Attacks Wound Israeli Soldiers, Damage School  Foundation for Defense of Democracies\nRockets hit empty school, preschool in north after IDF strikes arms depot in Lebanon  The Times of Israel\nAnti-tank missile strikes house in Metulla, causing fire  The Jerusalem Post\nIsrael confirms striking Hezbollah weapons depots in south Lebanon  Voice of America - VOA News",
+          "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9icmVha2luZy1uZXdzL2FydGljbGUtODExNDQ00gEA?oc=5",
+          "publishedOn": "2024-07-22T18:28:01.000Z",
+          "wordCount": 8987,
+          "title": "Israel Air Force strikes Hezbollah infrastructure following alerts in the North - The Jerusalem Post",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiggFodHRwczovL3d3dy5ldXJvbmV3cy5jb20vbXktZXVyb3BlLzIwMjQvMDcvMjIvYm9ycmVsbC1hY2N1c2VzLW9yYmFuLW9mLWRpc2xveWFsdHktYW5kLWpvaW5zLWJveWNvdHQtYWdhaW5zdC1odW5nYXJ5cy1ldS1wcmVzaWRlbmN50gEA",
           "author": null,
           "description": "Borrell accuses Orbán of disloyalty and joins boycott against Hungary's EU presidency  Euronews\nEU moves high-level meetings out of Budapest to protest Orbán’s Ukraine war stance  CNN\nTop EU diplomat calls rival meeting in response to Hungary’s rogue diplomacy  The Guardian\nEU drops Hungary meeting over Ukraine war stance  Reuters\nDonald Trump has ‘well-founded plans’ for Russia-Ukraine peace talks, Viktor Orbán claims  Financial Times",
@@ -153,6 +653,26 @@
           "publishedOn": "2024-07-22T18:05:52.000Z",
           "wordCount": 8987,
           "title": "Borrell accuses Orbán of disloyalty and joins boycott against Hungary's EU presidency - Euronews",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMieWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L2lzcmFlbGktcGFybGlhbWVudC12b3Rlcy1sYWJlbC11bi1yZWxpZWYtYWdlbmN5LXRlcnJvci1vcmdhbmlzYXRpb24tMjAyNC0wNy0yMi_SAQA",
+          "author": null,
+          "description": "Israeli parliament votes to label UN relief agency a terror organisation  Reuters\nLawmakers advance legislation to shut down Palestinian relief agency UNRWA  The Times of Israel\nThree bills to cut ties between Israel and UNWRA set to advance in Knesset  The Jerusalem Post\nOutcry as Israeli parliament approves bill declaring UN relief agency ‘terrorists’  The Independent\nApproved in first reading: UNRWA to be declared by the State of Israel as a terrorist organization  אתר הכנסת",
+          "link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L2lzcmFlbGktcGFybGlhbWVudC12b3Rlcy1sYWJlbC11bi1yZWxpZWYtYWdlbmN5LXRlcnJvci1vcmdhbmlzYXRpb24tMjAyNC0wNy0yMi_SAQA?oc=5",
+          "publishedOn": "2024-07-22T18:00:00.000Z",
+          "wordCount": 8987,
+          "title": "Israeli parliament votes to label UN relief agency a terror organisation - Reuters",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMib2h0dHBzOi8vd3d3LnBld3Jlc2VhcmNoLm9yZy9zaG9ydC1yZWFkcy8yMDI0LzA3LzIyL3doYXQtd2Uta25vdy1hYm91dC11bmF1dGhvcml6ZWQtaW1taWdyYW50cy1saXZpbmctaW4tdGhlLXVzL9IBAA",
+          "author": null,
+          "description": "What we know about unauthorized immigrants living in the U.S.  Pew Research Center\nThe Great Immigration Experiment  The American Conservative\nHow the origins of America’s immigrants have changed since 1850  Pew Research Center\nWhat the data says about immigrants in the U.S.  Pew Research Center\nWhere immigrants in the U.S. came from  FlowingData",
+          "link": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnBld3Jlc2VhcmNoLm9yZy9zaG9ydC1yZWFkcy8yMDI0LzA3LzIyL3doYXQtd2Uta25vdy1hYm91dC11bmF1dGhvcml6ZWQtaW1taWdyYW50cy1saXZpbmctaW4tdGhlLXVzL9IBAA?oc=5",
+          "publishedOn": "2024-07-22T17:55:15.000Z",
+          "wordCount": 8987,
+          "title": "What we know about unauthorized immigrants living in the U.S. - Pew Research Center",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -186,6 +706,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiSWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2RlZmVuc2UvNDc4NTk4Ni1mZW1hbGUtbmF2eS1waWxvdC1ob3V0aGkta2lsbC_SAU1odHRwczovL3RoZWhpbGwuY29tL3BvbGljeS9kZWZlbnNlLzQ3ODU5ODYtZmVtYWxlLW5hdnktcGlsb3QtaG91dGhpLWtpbGwvYW1wLw",
+          "author": null,
+          "description": "First US air-to-air victory scored by a female pilot  The Hill\nNavy aviator scores first air-to-air victory by a US female fighter pilot  CNN\nNaval aviator becomes first American woman to secure air-to-air kill  NavyTimes.com\nSuper Hornet pilot 1st US female aviator to score air-to-air kill: Navy  Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2RlZmVuc2UvNDc4NTk4Ni1mZW1hbGUtbmF2eS1waWxvdC1ob3V0aGkta2lsbC_SAU1odHRwczovL3RoZWhpbGwuY29tL3BvbGljeS9kZWZlbnNlLzQ3ODU5ODYtZmVtYWxlLW5hdnktcGlsb3QtaG91dGhpLWtpbGwvYW1wLw?oc=5",
+          "publishedOn": "2024-07-22T16:44:00.000Z",
+          "wordCount": 8987,
+          "title": "First US air-to-air victory scored by a female pilot - The Hill",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiUWh0dHBzOi8vd3d3LmJvcmVkcGFuZGEuY29tL2luZmx1ZW5jZXItcGFuLXhpYW90aW5nLW11a2Jhbmctb3ZlcmVhdGluZy1mb29kLWNoaW5hL9IBAA",
           "author": null,
           "description": "Internet Star Passes Away From Overeating During Live-Streamed Mukbang Challenge  Bored Panda\nChinese Influencer, 24, Dies From Overeating During Live Broadcast: Report  NDTV\nChinese woman, 24, dies while participating in live eating challenge  The Indian Express\n24-year-old woman dies from overeating during live streaming, ate 10 hours a day  Hindustan Times\nInfluencer dies on mukbang livestream from overeating  UNILAD",
@@ -216,6 +746,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
+          "id": "CBMiVmh0dHBzOi8vcm9hZC5jYy9jb250ZW50L25ld3MvY3ljbGlzdHMtY2F1Z2h0LW91dC1hbnRpLXRvdXJpc20tcHJvdGVzdHMtbWFsbG9yY2EtMzA5NTU10gEA",
+          "author": null,
+          "description": "“We used to have a life”: Chants of “no more cyclists” at anti-tourism protest in Mallorca as residents complain of tourists driving up cost of living  road.cc\nMass protest on Spanish island Mallorca calls for ‘limits on tourism’  CNN\nMallorcans live in caravans as tourists snap up housing  Yahoo! Voices\nSpain tourism: Why Spanish people are fighting back  BBC.com\nAnti-tourist backlash in Europe causes cruise ships to change course  Fortune",
+          "link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vcm9hZC5jYy9jb250ZW50L25ld3MvY3ljbGlzdHMtY2F1Z2h0LW91dC1hbnRpLXRvdXJpc20tcHJvdGVzdHMtbWFsbG9yY2EtMzA5NTU10gEA?oc=5",
+          "publishedOn": "2024-07-22T15:26:04.000Z",
+          "wordCount": 8987,
+          "title": "“We used to have a life”: Chants of “no more cyclists” at anti-tourism protest in Mallorca as residents complain of tourists driving up cost of living - road.cc",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
           "id": "CBMiiAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3JvYmVydGhhcnQvMjAyNC8wNy8yMi93aGF0LXRvLWtub3ctYWJvdXQtdGhlLWRlYWRseS1uaXBhaC12aXJ1cy1hcy1pbmRpYS1yYWNlcy10by1jb250YWluLWFub3RoZXItb3V0YnJlYWsv0gEA",
           "author": null,
           "description": "What To Know About The Deadly Nipah Virus As India Races To Contain Another Outbreak  Forbes\nNipah virus: Kerala state issues alert after 14-year-old dies  BBC.com\nIncurable Nipah brain virus kills teenager in India  NBC News\nNipah virus kills one teenager as health experts race to track 350 others  The Telegraph\nOne dead from Nipah virus in India's Kerala state, state health minister says  Reuters India",
@@ -233,6 +773,16 @@
           "publishedOn": "2024-07-22T14:38:19.000Z",
           "wordCount": 8987,
           "title": "Bangladesh protesters issue demands amid shaky calm - Al Jazeera English",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMidGh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS90cmF2ZWwvMjAyNC8wNy8yMi90aGUtZW5kLW9mLWFpcmJuYi1pbi1iYXJjZWxvbmEtd2hhdC1kb2VzLXRoZS10b3VyaXNtLWluZHVzdHJ5LWhhdmUtdG8tc2F50gEA",
+          "author": null,
+          "description": "Barcelona tourists say they still feel welcome in the city  Euronews\nThe cost of Europe’s backlash against tourists  Financial Times\nProtests will 'absolutely' spread if European cities don’t address overtourism, says UNESCO official  CNBC\nPlanning a vacation? Here’s all the places that the locals don’t want you  The Independent\nAffordable travel is to blame for Europe’s overtourism problem, spoiling its most sought-after cities like Barcelona, Amsterdam and Athens  Fortune",
+          "link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS90cmF2ZWwvMjAyNC8wNy8yMi90aGUtZW5kLW9mLWFpcmJuYi1pbi1iYXJjZWxvbmEtd2hhdC1kb2VzLXRoZS10b3VyaXNtLWluZHVzdHJ5LWhhdmUtdG8tc2F50gEA?oc=5",
+          "publishedOn": "2024-07-22T14:15:00.000Z",
+          "wordCount": 8987,
+          "title": "Barcelona tourists say they still feel welcome in the city - Euronews",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -373,6 +923,26 @@
           "publishedOn": "2024-07-22T10:44:41.000Z",
           "wordCount": 8987,
           "title": "Police chief shot dead days after activist, wife and daughter killed in Mexico - CBS News",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMid2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2VtaXJhdGVzLXVhZS1iYW5nbGFkZXNoLW5hdGlvbmFscy1zZW50ZW5jZWQtcHJpc29uLXByb3Rlc3RzLWJlZWVjYTg5ZDI4MmU3ZTM3YjczNzgyMDgxY2MyODEx0gEA",
+          "author": null,
+          "description": "UAE sentences Bangladeshi nationals to prison over protests against their home government  The Associated Press\nUAE hands 57 Bangladeshis long-term jail terms for protests  Al Jazeera English\nWhat’s Behind Bangladesh’s Student Protests?  United States Institute of Peace\nUAE jails 57 Bangladeshis for protesting against Sheikh Hasina govt  The Times of India\nUAE court awards 10-year prison terms to 53 Bangladeshi nationals for protesting against their home government  The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2VtaXJhdGVzLXVhZS1iYW5nbGFkZXNoLW5hdGlvbmFscy1zZW50ZW5jZWQtcHJpc29uLXByb3Rlc3RzLWJlZWVjYTg5ZDI4MmU3ZTM3YjczNzgyMDgxY2MyODEx0gEA?oc=5",
+          "publishedOn": "2024-07-22T10:19:00.000Z",
+          "wordCount": 8987,
+          "title": "UAE sentences Bangladeshi nationals to prison over protests against their home government - The Associated Press",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvczQxNTk4LTAyNC02NjE0Ny0x0gEA",
+          "author": null,
+          "description": "The odour of an unfamiliar stressed or relaxed person affects dogs’ responses to a cognitive bias test  Nature.com\nStress in humans can affect how optimistic dogs feel, research suggests  The Guardian\nDogs feel your stress and become more pessimistic themselves  New Atlas\nDogs Detect Human Stress Smell, Affecting Their Mood and Choices  Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvczQxNTk4LTAyNC02NjE0Ny0x0gEA?oc=5",
+          "publishedOn": "2024-07-22T09:34:33.000Z",
+          "wordCount": 8987,
+          "title": "The odour of an unfamiliar stressed or relaxed person affects dogs’ responses to a cognitive bias test - Nature.com",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
@@ -2183,6 +2753,16 @@
           "publishedOn": "2024-07-17T16:20:25.000Z",
           "wordCount": 8960,
           "title": "King Charles Presides Over Parliament Opening Complete With Bonkers Medieval Customs - The Daily Beast",
+          "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        },
+        {
+          "id": "CBMiWGh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vY3VsdHVyZS8yMDI0LzA3LzE3L3Rha2luZy1vbi10aGUtZ2xvYmFsLWJyb3RoZXJob29kLW9mLWRlc3BvdHPSAQA",
+          "author": null,
+          "description": "Taking on the global brotherhood of despots  The Economist\nWhy Is Autocracy Thriving? Anne Applebaum Says: It’s the Economy, Stupid.  The New York Times\nAutocracy, Inc. by Anne Applebaum review – the devil you know  The Guardian\nAnne Applebaum: ‘Trump is a transactional person whose interest is in himself... It’s why he is more dangerous’  The Irish Times",
+          "link": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vY3VsdHVyZS8yMDI0LzA3LzE3L3Rha2luZy1vbi10aGUtZ2xvYmFsLWJyb3RoZXJob29kLW9mLWRlc3BvdHPSAQA?oc=5",
+          "publishedOn": "2024-07-17T16:16:47.000Z",
+          "wordCount": 8987,
+          "title": "Taking on the global brotherhood of despots - The Economist",
           "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
         },
         {
